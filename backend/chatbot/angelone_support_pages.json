@@ -1,0 +1,1580 @@
+{
+  "crawl_info": {
+    "base_url": "https://www.angelone.in/support",
+    "total_pages_scraped": 196,
+    "total_content_size": 67767,
+    "failed_urls_count": 0,
+    "crawl_timestamp": 1750566981.356184
+  },
+  "support_pages": [
+    {
+      "url": "https://www.angelone.in/support",
+      "title": "Support Archive - Angel One",
+      "content": "## [Add and Withdraw Funds Available margin to trade, funds balance,\nwithdrawable balance ](https://www.angelone.in/support/add-and-withdraw-\nfunds)[Learn More ](https://www.angelone.in/support/add-and-withdraw-funds)",
+      "content_length": 217,
+      "source_type": "support_page",
+      "timestamp": 1750566230.846037
+    },
+    {
+      "url": "https://www.angelone.in/support/add-and-withdraw-funds",
+      "title": "Guide to Add Funds in Angel One Account? Secure Online Fund Transfer",
+      "content": "If your trading balance is not updated after a successful fund addition, it\ncould be due to the following reasons:\n1. **High Volume of Requests** : When there is a high volume of fund addition requests, it might take some time to update your balance. Please wait for 15 minutes.\n2. **Bank Account Issues** : Ensure you add funds from the bank account registered with Angel One, and the account should be in your name. If funds are added from an unregistered bank account, the amount might get deducted but will be credited back in 3-4 working days.",
+      "content_length": 548,
+      "source_type": "support_page",
+      "timestamp": 1750566232.014057
+    },
+    {
+      "url": "https://www.angelone.in/support/ipo-ofs",
+      "title": "Assistance for IPO Application Process, Allotment Status | Angel One",
+      "content": "Generally, you can find your UPI ID in the profile section of the respective\napp you are using.",
+      "content_length": 95,
+      "source_type": "support_page",
+      "timestamp": 1750566239.107589
+    },
+    {
+      "url": "https://www.angelone.in/support/margin-pledging-and-margin-trading-facility",
+      "title": "Guide on Available Trading Margin & How to Optimise in Angel One?",
+      "content": "Tap on Account at the bottom of your screen\nTrading balance is shown at on the card at the top of the page\nClick on Trading balance card to view more details about the funds",
+      "content_length": 173,
+      "source_type": "support_page",
+      "timestamp": 1750566245.974808
+    },
+    {
+      "url": "https://www.angelone.in/support/loans",
+      "title": "Active Loans - Angel One",
+      "content": "The repayment schedule is not available on the app. You can request your\nrepayment schedule by:\n* Emailing at: **support@creditsaison-in.com**\n* Calling: **18001038961**",
+      "content_length": 169,
+      "source_type": "support_page",
+      "timestamp": 1750566252.824369
+    },
+    {
+      "url": "https://www.angelone.in/support/mutual-funds",
+      "title": "Mutual Fund Orders with Angel One: Guide on Tracking MF Orders?",
+      "content": "Applicable NAV is based on realization of fund by respective AMC house and\nsubject to successful order processing by BSE star before cut-offs. Here\n‘realization of funds’ means that NAV applicable for your order will depend on\nif the fund house has receievd money or not\nPlease find the cut-off timings for various types of funds and orders\nFurthermore,\n1. NAV applicability for orders placed on Saturday, Sundays and other market/public holidays depends on when orders are placed on exchange. Here it is **the** next business day.\n2. Payments made via UPI mode generally result in **same-day** NAV if the order is placed before cut-off. **This happens because settlement to ICCL happens generally happens before cut-off if made via UPI.** Angel One depends on payment aggregator for ICCL settlements.\n3. Payments made via Netbanking generally result in next working day’s NAV. This happens as settlement to ICCL does not happen real time and generally takes places on ‘T+1’ basis. Angel One depends on payment aggregator for ICCL settlements. So even if order and payment is successful before cut-off, If the payment mode is netbanking, This might result in next day’s NAV.\n4. In Summary, In some cases, Even if order and payment happens before cut-off, NAV will depend **on settlement to ICCL and realization of funds by AMC**",
+      "content_length": 1328,
+      "source_type": "support_page",
+      "timestamp": 1750566253.9930508
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account",
+      "title": "How to Submit Family Declaration? Managing Angel One Account",
+      "content": "As per regulatory requirement, every KYC account should have a separate and\nunique mobile number and email address . In case if account holder wishes to\nuse common email Id/ Mobile number for more than one account of family, it can\nbe done after submitting a written declaration giving required details and\nduly signed by people involved.",
+      "content_length": 338,
+      "source_type": "support_page",
+      "timestamp": 1750566255.163566
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi",
+      "title": "Support Archive - Angel One",
+      "content": "## [धनराशि जोड़ें और निकालें व्यापार के लिए उपलब्ध मार्जिन, फंड शेष, निकासी\nयोग्य शेष ](https://www.angelone.in/support/hindi/add-and-withdraw-funds)[और\nअधिक जानें ](https://www.angelone.in/support/hindi/add-and-withdraw-funds)",
+      "content_length": 227,
+      "source_type": "support_page",
+      "timestamp": 1750566268.754317
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits",
+      "title": "Account Verification - Angel One",
+      "content": "Verifying your mobile number helps us create a secure account for you,\nensuring a smooth app experience and the safety of your account.",
+      "content_length": 135,
+      "source_type": "support_page",
+      "timestamp": 1750566275.728483
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks",
+      "title": "DP Charges: Get the Full Breakdown of DP Charges at Angel One",
+      "content": "Depository Participant (DP) charges are combined charges imposed by CDSL and\nAngel One on every **sell transaction** of equity delivery shares. Please note\nthat DP charges are **not applicable on intraday trades or delivery buy\ntransactions**. The details are as below.\n**Equity delivery** : Rs. 20+GST per sale transaction, split as below.\n(Male – INR 3.5 (CDSL) + INR 16.5 (Angel One Charge))\n(Female – INR 3.25 (CDSL) + INR 16.75 (Angle One Charge))\nFor example,\nIf you sell 100 shares of TCS on Monday at 10 am and again sell 50 shares\nlater in the day, DP charges will be applicable twice. The total DP charges\nlevied in this case will be Rs. 47.2.",
+      "content_length": 653,
+      "source_type": "support_page",
+      "timestamp": 1750566276.9077451
+    },
+    {
+      "url": "https://www.angelone.in/support/angel-one-recommendations",
+      "title": "Advisory and Recommendations by Angel One to Minimize Risk and Maximize Profit",
+      "content": "Recommendations are stocks suggested by Angel One to help you minimize risk\nand maximize profit.\nYou can see the recommendations by visiting\n[https://www.angelone.in/trade/home](https://www.angelone.in/trade/home)\nYou will find the recommendations under “Top Stock Picks via Advisory” section\non this screen.",
+      "content_length": 308,
+      "source_type": "support_page",
+      "timestamp": 1750566278.077133
+    },
+    {
+      "url": "https://www.angelone.in/support/charts",
+      "title": "Chart Not Loading: Troubleshoot Chart Issues | Angel One",
+      "content": "Open Playstore\nSearch for Google Chrome on Playstore\nUpdate Google Chrome or your default browser to the latest version\nThe chart should load successfully now\nIf the chart loading fails & issue still exists :\nOpen Playstore again\nSearch for Android System Webview\nClick to Update the Android System Webview to the latest version",
+      "content_length": 328,
+      "source_type": "support_page",
+      "timestamp": 1750566279.2273622
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements",
+      "title": "Client Master List Importance & How to Access It? | Angel One",
+      "content": "Client Master List (CML) is a document with details of your DEMAT account\nproviding your information such as name, address, DOB, bank account,\nnominations etc.\nTo know about Client Master List “[Click Here](\nhttps://www.angelone.in/knowledge-center/share-market/guide-to-client-master-\nreport )“",
+      "content_length": 295,
+      "source_type": "support_page",
+      "timestamp": 1750566280.403355
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions",
+      "title": "Bonus Issues with Angel One: How to Manage Bonus Issues in Portfolio?",
+      "content": "Bonus shares are additional shares given by the company to existing\nshareholders, free of cost, in proportion to the shares held by the\nshareholder.",
+      "content_length": 148,
+      "source_type": "support_page",
+      "timestamp": 1750566287.295278
+    },
+    {
+      "url": "https://www.angelone.in/support/complaince",
+      "title": "Guide on Trading and Surveillance Compliance | Angel One",
+      "content": "Market surveillance plays a key role in ensuring safety and integrity of the\nmarkets as it the process of prevention and investigation of abusive,\nmanipulative or illegal trading practices in the securities markets.\nSurveillance Measure is an initative by the regulatory bodies and exchanges to\nprotect traders and investors by monitoring price and volatility and detecting\nmisleading activities like insider trading, fictitious transactions, and more.",
+      "content_length": 452,
+      "source_type": "support_page",
+      "timestamp": 1750566288.465247
+    },
+    {
+      "url": "https://www.angelone.in/support/add-and-withdraw-funds/withdrawable-balance",
+      "title": "Guide to Check & Manage Withdrawable Balance in Angel One Account",
+      "content": "Your withdrawable balance is the amount eligible for withdrawal on a given\nday. Any unsettled balance from your trades will be available for withdrawal\non T+1 day (next working day).\nThe following balances will be available for withdrawal on the next working\nday:\n1. Funds from delivery sell transactions.\n2. Profits from intraday transactions.\n3. Profits from F&O transactions.\n4. Funds from commodity and currency transactions.",
+      "content_length": 429,
+      "source_type": "support_page",
+      "timestamp": 1750566289.591557
+    },
+    {
+      "url": "https://www.angelone.in/support/add-and-withdraw-funds/add-funds",
+      "title": "Guide to Add Funds in Angel One Account? Secure Online Fund Transfer",
+      "content": "If your trading balance is not updated after a successful fund addition, it\ncould be due to the following reasons:\n1. **High Volume of Requests** : When there is a high volume of fund addition requests, it might take some time to update your balance. Please wait for 15 minutes.\n2. **Bank Account Issues** : Ensure you add funds from the bank account registered with Angel One, and the account should be in your name. If funds are added from an unregistered bank account, the amount might get deducted but will be credited back in 3-4 working days.",
+      "content_length": 548,
+      "source_type": "support_page",
+      "timestamp": 1750566290.705157
+    },
+    {
+      "url": "https://www.angelone.in/support/add-and-withdraw-funds/quarterly-settlement-sebi-payout",
+      "title": "Angel One Quarterly Settlement and SEBI Payout Guide",
+      "content": "There are two reasons why this could happen.\n1. **Quarterly Settlement:** As per the SEBI guidelines, all stockbrokers are required to transfer the funds lying in the client account back to their bank at least once every quarter. The funds will be transferred back to the primary bank account mapped to your Angel One account.\n2. **Fund Settlement Frequency:** Your fund settlement frequency might be set to daily settlement. You can edit it by visiting **Account → Profile → Fund Settlement Frequency** in our mobile app.",
+      "content_length": 522,
+      "source_type": "support_page",
+      "timestamp": 1750566291.8011782
+    },
+    {
+      "url": "https://www.angelone.in/support/add-and-withdraw-funds/withdraw-funds",
+      "title": "Guide to Withdraw Funds from Angel One Trading Account?",
+      "content": "We process your fund withdrawal request as per the below timeline:\n**Days** | **Payout Request Time** | **Funds Credited By (approx)**\n---|---|---\nMonday to Friday | 12:00 am – 07:00 am | 11:30 am, Same Day\n07:00 am – 05:30 pm | 11:30 pm, Same Day\n05:30 pm – 12:00 am  | 11:30 am, Next Working Day\nSaturday, Sunday | Anytime | 11:30 am, Next Working Day\nTrading/Settlement Holiday | Anytime | 11:30 am, Next Working Day\nTo learn more about the fund withdrawal cycle, [click\nhere](https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-\nexplained).",
+      "content_length": 563,
+      "source_type": "support_page",
+      "timestamp": 1750566292.9456089
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/add-and-withdraw-funds/add-funds",
+      "title": "Guide to Add Funds in Angel One Account? Secure Online Fund Transfer",
+      "content": "If your trading balance is not updated after a successful fund addition, it\ncould be due to the following reasons:\n1. **High Volume of Requests** : When there is a high volume of fund addition requests, it might take some time to update your balance. Please wait for 15 minutes.\n2. **Bank Account Issues** : Ensure you add funds from the bank account registered with Angel One, and the account should be in your name. If funds are added from an unregistered bank account, the amount might get deducted but will be credited back in 3-4 working days.",
+      "content_length": 548,
+      "source_type": "support_page",
+      "timestamp": 1750566294.0431528
+    },
+    {
+      "url": "https://www.angelone.in/support/ipo-ofs/ofs",
+      "title": "How to Invest in Offer for Sale (OFS) through Angel One?",
+      "content": "As of now, we do not have an online facility for OFS order placement. You can\nCall us / Write to us by visiting the link at the bottom of the page.",
+      "content_length": 147,
+      "source_type": "support_page",
+      "timestamp": 1750566300.90255
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/ipo-ofs/ipo",
+      "title": "Assistance for IPO Application Process, Allotment Status | Angel One",
+      "content": "आम तौर पर, आप अपनी यूपीआई आईडी उस संबंधित ऐप के प्रोफ़ाइल अनुभाग में पा सकते\nहैं जिसका आप उपयोग कर रहे हैं।",
+      "content_length": 107,
+      "source_type": "support_page",
+      "timestamp": 1750566307.611556
+    },
+    {
+      "url": "https://www.angelone.in/support/ipo-ofs/sovereign-gold-bonds-sgb",
+      "title": "All You Need to Know About Sovereign Gold Bonds (SGB) In Angel One",
+      "content": "SGBs are government securities denominated in grams of gold.\nThey are an alternate to holding physical gold.\nSGBs are issued by RBI on behalf of the Government of India.",
+      "content_length": 169,
+      "source_type": "support_page",
+      "timestamp": 1750566314.295122
+    },
+    {
+      "url": "https://www.angelone.in/support/ipo-ofs/stock-sip",
+      "title": "Stock SIP (Systematic Investment Plan) Support at Angel One",
+      "content": "Stock SIP is a tool that helps you create wealth, by regularly investing small\namounts in stocks & ETF’s of your choice as per your risk profile.\nTo know more about Stock SIP [Click Here](https://www.angelone.in/knowledge-\ncenter/online-share-trading/equity-sip)",
+      "content_length": 262,
+      "source_type": "support_page",
+      "timestamp": 1750566315.419148
+    },
+    {
+      "url": "https://www.angelone.in/support/ipo-ofs/ipo",
+      "title": "Assistance for IPO Application Process, Allotment Status | Angel One",
+      "content": "Generally, you can find your UPI ID in the profile section of the respective\napp you are using.",
+      "content_length": 95,
+      "source_type": "support_page",
+      "timestamp": 1750566321.78781
+    },
+    {
+      "url": "https://www.angelone.in/support/margin-pledging-and-margin-trading-facility/margin-pledge-unpledge",
+      "title": "How to Pledge and Unpledge securities for Margin in Angel One?",
+      "content": "Margin Pledge also called stock pledge refers to the process of using your\nexisting stocks as collateral for availing additional limits.",
+      "content_length": 136,
+      "source_type": "support_page",
+      "timestamp": 1750566328.5397189
+    },
+    {
+      "url": "https://www.angelone.in/support/margin-pledging-and-margin-trading-facility/margin-trading-facility",
+      "title": "Margin Trading Facility(MTF): Enhance Trading Potential with Angel One",
+      "content": "Margin Trading Facility (MTF) allows an investor to buy a stock by paying just\na fraction of the total transaction value. The balance amount is funded by the\nbroker.\nAs an illustration\nYour Account Balance = Rs. 25,000\nMTF gives you upto 4x buying power = Rs 100,000 (25,000 x 4)\nThus, your enhanced Buying Capacity is now = Rs. 125,000.",
+      "content_length": 337,
+      "source_type": "support_page",
+      "timestamp": 1750566329.6413922
+    },
+    {
+      "url": "https://www.angelone.in/support/margin-pledging-and-margin-trading-facility/available-margin-to-trade",
+      "title": "Guide on Available Trading Margin & How to Optimise in Angel One?",
+      "content": "Tap on Account at the bottom of your screen\nTrading balance is shown at on the card at the top of the page\nClick on Trading balance card to view more details about the funds",
+      "content_length": 173,
+      "source_type": "support_page",
+      "timestamp": 1750566336.036715
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/margin-pledging-and-margin-trading-facility/available-margin-to-trade",
+      "title": "Guide on Available Trading Margin & How to Optimise in Angel One?",
+      "content": "Tap on Account at the bottom of your screen\nट्रेडिंग बैलेंस पृष्ठ के शीर्ष पर कार्ड पर दिखाया गया है\nफंड के बारे में अधिक विवरण देखने के लिए ट्रेडिंग बैलेंस कार्ड पर क्लिक करें",
+      "content_length": 176,
+      "source_type": "support_page",
+      "timestamp": 1750566342.786438
+    },
+    {
+      "url": "https://www.angelone.in/support/loans/active-loans",
+      "title": "Active Loans - Angel One",
+      "content": "The repayment schedule is not available on the app. You can request your\nrepayment schedule by:\n* Emailing at: **support@creditsaison-in.com**\n* Calling: **18001038961**",
+      "content_length": 169,
+      "source_type": "support_page",
+      "timestamp": 1750566349.127399
+    },
+    {
+      "url": "https://www.angelone.in/support/loans/loans-enquiry",
+      "title": "Loans Enquiry - Angel One",
+      "content": "Currently, Angel One is offering personal loans via its lending partners to a\nselect group of existing users only. We will gradually be rolling out the\nproduct to more users. Stay tuned for updates!",
+      "content_length": 198,
+      "source_type": "support_page",
+      "timestamp": 1750566355.880411
+    },
+    {
+      "url": "https://www.angelone.in/support/loans/rejected-loans",
+      "title": "Rejected Loans - Angel One",
+      "content": "Your loan application is evaluated based on multiple factors. While your\nsalary is one aspect, other considerations include your credit score, existing\ndebt, and our lender partners’ policies.",
+      "content_length": 192,
+      "source_type": "support_page",
+      "timestamp": 1750566362.336336
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/mutual-funds/orders",
+      "title": "Mutual Fund Orders with Angel One: Guide on Tracking MF Orders?",
+      "content": "लागू एनएवी संबंधित एएमसी हाउस द्वारा फंड की वसूली पर आधारित है और कट-ऑफ से\nपहले बीएसई स्टार द्वारा सफल ऑर्डर प्रोसेसिंग के अधीन है। यहां 'धन की प्राप्ति'\nका मतलब है कि आपके ऑर्डर के लिए लागू एनएवी इस पर निर्भर करेगा कि फंड हाउस को\nपैसा प्राप्त हुआ है या नहीं।\nकृपया विभिन्न प्रकार के फंडों और ऑर्डरों के लिए कट-ऑफ समय का पता लगाएं\nआगे,\n1. शनिवार, रविवार और अन्य बाजार/सार्वजनिक छुट्टियों पर दिए गए ऑर्डर के लिए एनएवी प्रयोज्यता इस बात पर निर्भर करती है कि एक्सचेंज पर ऑर्डर कब दिए गए हैं। यह रहा **the** अगला व्यवसाय दिवस।\n2. UPI मोड के माध्यम से किए गए भुगतान का परिणाम आम तौर पर होता है **एक ही दिन** यदि ऑर्डर कट-ऑफ से पहले दिया गया है तो एनएवी। **ऐसा इसलिए होता है क्योंकि ICCL का निपटान आमतौर पर UPI के माध्यम से किए जाने पर कट-ऑफ से पहले होता है।** एंजेल वन आईसीसीएल निपटान के लिए भुगतान एग्रीगेटर पर निर्भर करता है।\n3. नेटबैंकिंग के माध्यम से किए गए भुगतान का परिणाम आम तौर पर अगले कार्य दिवस का एनएवी होता है। ऐसा इसलिए होता है क्योंकि ICCL का निपटान वास्तविक समय पर नहीं होता है और आम तौर पर 'T+1' आधार पर होता है। एंजेल वन आईसीसीएल निपटान के लिए भुगतान एग्रीगेटर पर निर्भर करता है। इसलिए भले ही ऑर्डर और भुगतान कट-ऑफ से पहले सफल हो, यदि भुगतान मोड नेटबैंकिंग है, तो इसका परिणाम अगले दिन का एनएवी हो सकता है।\n4. संक्षेप में, कुछ मामलों में, भले ही ऑर्डर और भुगतान कट-ऑफ से पहले होता है, एनएवी निर्भर करेगा **आईसीसीएल को निपटान और एएमसी द्वारा धन की वसूली पर**",
+      "content_length": 1368,
+      "source_type": "support_page",
+      "timestamp": 1750566363.4593978
+    },
+    {
+      "url": "https://www.angelone.in/support/mutual-funds/investments",
+      "title": "How to Track Mutual Fund Investment in Angel One?",
+      "content": "Your Investments will appear in your ‘Investments’ Tab when your orders moves\nto ‘Completed’ section of your Orders Tab.\nThis happens when we get the confirmation of Unit allotment by respective\nAMCs. This process generally takes 3/4 working days from order placement date.\nYour portfolio updation date in Order timeline is our estimate of when Unit\nallotment confirmation from AMC will come through.\nPlease do not worry, This date date does not have any relation to your NAV\ndate. Your NAV date depend on realization of funds by AMC.",
+      "content_length": 534,
+      "source_type": "support_page",
+      "timestamp": 1750566364.605087
+    },
+    {
+      "url": "https://www.angelone.in/support/mutual-funds/orders",
+      "title": "Mutual Fund Orders with Angel One: Guide on Tracking MF Orders?",
+      "content": "Applicable NAV is based on realization of fund by respective AMC house and\nsubject to successful order processing by BSE star before cut-offs. Here\n‘realization of funds’ means that NAV applicable for your order will depend on\nif the fund house has receievd money or not\nPlease find the cut-off timings for various types of funds and orders\nFurthermore,\n1. NAV applicability for orders placed on Saturday, Sundays and other market/public holidays depends on when orders are placed on exchange. Here it is **the** next business day.\n2. Payments made via UPI mode generally result in **same-day** NAV if the order is placed before cut-off. **This happens because settlement to ICCL happens generally happens before cut-off if made via UPI.** Angel One depends on payment aggregator for ICCL settlements.\n3. Payments made via Netbanking generally result in next working day’s NAV. This happens as settlement to ICCL does not happen real time and generally takes places on ‘T+1’ basis. Angel One depends on payment aggregator for ICCL settlements. So even if order and payment is successful before cut-off, If the payment mode is netbanking, This might result in next day’s NAV.\n4. In Summary, In some cases, Even if order and payment happens before cut-off, NAV will depend **on settlement to ICCL and realization of funds by AMC**",
+      "content_length": 1328,
+      "source_type": "support_page",
+      "timestamp": 1750566365.7230568
+    },
+    {
+      "url": "https://www.angelone.in/support/mutual-funds/sips",
+      "title": "Support on Investing in Mutual Funds through SIPs in Angel One",
+      "content": "Your Monthly instalments for SIPs will get debited automatically on SIP day\nonly if your SIPs are linked to an autopay.\nIf you have not setup an autopay, your instalments will not be paid.\nTo setup and manage autopay, Please click on the link below\n[Manage\nAutopay](https://angeloneapp.page.link/?link=https://www.angelone.in/mutual-\nfunds/sipbook/dashboard&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)",
+      "content_length": 427,
+      "source_type": "support_page",
+      "timestamp": 1750566366.844286
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/mtf-activation-deactivation",
+      "title": "Activate and Deactivate MTF on Angel One - Complete Guide",
+      "content": "You can activate MTF or Pay later by visiting the\n[**Profile**](https://angeloneapp.page.link/?link=https://www.angelone.in/emod2/profile?nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)\npage on the Angel One app.\nAlternatively, you can navigate to **Account → Profile → MTF** to activate MTF\nfor your account. You will have to enter the Aadhar number and verify the OTP.\nOnce the request is submitted, it will take up to 2 working days to activate\nMTF for your account.",
+      "content_length": 508,
+      "source_type": "support_page",
+      "timestamp": 1750566367.9697468
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/family-declaration",
+      "title": "How to Submit Family Declaration? Managing Angel One Account",
+      "content": "As per regulatory requirement, every KYC account should have a separate and\nunique mobile number and email address . In case if account holder wishes to\nuse common email Id/ Mobile number for more than one account of family, it can\nbe done after submitting a written declaration giving required details and\nduly signed by people involved.",
+      "content_length": 338,
+      "source_type": "support_page",
+      "timestamp": 1750566369.087841
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/online-account-opening",
+      "title": "How to Open Online Account with Angel One? Step-by-Step Guidance",
+      "content": "Once your KYC documents are submitted, it may take up to **3 working days** to\nactivate your account. You will receive your client ID on the registered email\naddress.",
+      "content_length": 166,
+      "source_type": "support_page",
+      "timestamp": 1750566375.86957
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/mpin-biometric",
+      "title": "MPIN and Biometric Authentication at Angel One: Setup & Usage Guide",
+      "content": "An MPIN is a 4-digit PIN used for two-factor authentication, enhancing your\naccount security. It is used for logging into your Angel One account.",
+      "content_length": 145,
+      "source_type": "support_page",
+      "timestamp": 1750566382.614605
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/other-services",
+      "title": "Explore Additional Services by Angel One: Enhance Trading Experience",
+      "content": "We currently do not have a desktop application for trading. We have optimized\nour web platform to meet the trading needs. Do let us know if you are looking\nfor any specific improvements.",
+      "content_length": 186,
+      "source_type": "support_page",
+      "timestamp": 1750566389.344186
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/account-settings-2",
+      "title": "Angel One Account Settings: Update Your Personal Information",
+      "content": "You can set a price or volume alert on the Angel One mobile app by following\nthe below steps.\n1. Select the desired stock and click on Stock details.\n2. Click on the alarm icon in the top right corner.\n3. Set alerts based on either price or volume; Configure the parameters & conditions.\n4. Press Create Alert.\n5. To view or modify alerts, go to the home page, click the bell icon at the top, and visit the Alerts section.",
+      "content_length": 422,
+      "source_type": "support_page",
+      "timestamp": 1750566390.469495
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/dormant-account",
+      "title": "Dormant Accounts at Angel One - Reactivation & Importance",
+      "content": "Your account may become dormant/deactivated due to the following reasons:\n1. You have not done any financial transaction (trading, pay-in, etc) with Angel One for more than a year.\n2. If any of the following 6 profile details are missing: name, PAN, address, income range, mobile number, email id\n3. You have been debarred from trading by SEBI.\n4. There is an outstanding balance issue.",
+      "content_length": 386,
+      "source_type": "support_page",
+      "timestamp": 1750566391.607971
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/account-closure",
+      "title": "Account Closure Process at Angel One | How to Close Your Account?",
+      "content": "We are sorry to hear that you want to close your account.\n**You can**[**click\nhere**](https://angeloneapp.page.link/?link=https://www.angelone.in/emod2/accountClosure?=nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)**to\nsubmit an account closure request or please follow the below steps.**\n1. Navigate to the **Profile** section on the Account screen of the app.\n2. Scroll to the bottom of the screen and click on “**Close Demat and Trading Account** ”.\n3. Read the disclaimer and proceed.\n4. Your account closure request will be processed in **3 working days**.\nPlease note that the account closure is permanent. Once it is closed, you can\nnot open an account with Angel One within 90 days.\nWe look forward to serving you again in the future.",
+      "content_length": 782,
+      "source_type": "support_page",
+      "timestamp": 1750566392.7259252
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/kyc-status",
+      "title": "Support on KYC Status with Angel One | Verify & Update Easily",
+      "content": "It could mean that for some reason, your signature could not be validated – it\ncould be either because the signature itself was not valid or for some other\nreason. But not to worry! Our sales team will reach out to you shortly to help\nyou resolve the issue and complete the KYC process.",
+      "content_length": 286,
+      "source_type": "support_page",
+      "timestamp": 1750566393.849577
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/segment-activation",
+      "title": "Activate Trading Segments on Angel One - Comprehensive Guide",
+      "content": "You can activate the F&O segment online via the Angel One app.\nYou can request for segment activation by [**clicking\nhere**](https://angeloneapp.page.link/?link=https://www.angelone.in/emod2/segmentActivation?nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye).\nBut before that, please go through the below steps.\n1. Navigate to **Account → Profile → Manage Segment** section of the app.\n2. Select the segments to be activated.\n3. If you don’t have equity holdings in your account, providing financial proof is mandatory.\n4. You can automatically provide a 6-month bank statement as financial proof by entering the bank name and mobile number linked to your bank.\n5. You can also manually upload the 6 months bank statement as financial proof.\n6. If you don’t have bank statement, you can provide any of the below documents as financial proof.\n1. Passbook\n2. Salary Slip\n3. ITR Acknowledgement\n4. Form 16\n5. Demat Account Statement\n7. You will be redirected for e-signing the request. Enter the Aadhar details & OTP sent from Adhaar on your mobile number.\n8. The request will be processed in 2 working days.\nPlease [**visit this page**](https://www.angelone.in/knowledge-center/trading-\naccount/heres-how-you-can-activate-a-segment-in-angel-one) for a more detailed\nguide.",
+      "content_length": 1307,
+      "source_type": "support_page",
+      "timestamp": 1750566394.974004
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/profile-details",
+      "title": "How to Update Your Profile Details on Angel One? Step-by-Step Guide",
+      "content": "You can directly submit mobile number modification request online via the\nAngel One app.\n**Please**[**click\nhere**](https://angeloneapp.page.link/?link=https://www.angelone.in/emod2/personaldetails/mobile?nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)**or\nfollow the below steps to submit a request.**\n1. Navigate to the **Profile section** on the Account screen of the app.\n2. Click on **Personal Details**.\n3. Click on the pen icon next to your mobile number.\n4. Here you will be able to submit a modification request by adding your new mobile number.\n5. Please note that you need to verify the OTP and Esign to submit the request.\nOnce the request is submitted successfully, your mobile number will be updated\nwithin 3-5 working days.\nPlease [**visit this page**](https://www.angelone.in/knowledge-center/demat-\naccount/how-to-update-profile-on-angel-one-app) for a more detailed guide.",
+      "content_length": 929,
+      "source_type": "support_page",
+      "timestamp": 1750566396.121768
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/family-declaration",
+      "title": "How to Submit Family Declaration? Managing Angel One Account",
+      "content": "As per regulatory requirement, every KYC account should have a separate and\nunique mobile number and email address . In case if account holder wishes to\nuse common email Id/ Mobile number for more than one account of family, it can\nbe done after submitting a written declaration giving required details and\nduly signed by people involved.",
+      "content_length": 338,
+      "source_type": "support_page",
+      "timestamp": 1750566397.2390132
+    },
+    {
+      "url": "https://www.angelone.in/support/your-account/subscription-plans",
+      "title": "Angel One Account Subscription Plans: Guide on Purchase Plans",
+      "content": "A subscription plan is a tailored package designed for our clients that\nprovides exclusive trading benefits. These benefits vary depending on the plan\nand include zero brokerage trades, reduced interest rates on Margin Trading\nFacility (MTF), and combination offers. Plans are purchased with an upfront\npayment and are valid for a predetermined period, with specific usage limits\nattached.",
+      "content_length": 389,
+      "source_type": "support_page",
+      "timestamp": 1750566398.364533
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/placing-an-order",
+      "title": "Learn How to Place an Order in Angel One? Comprehensive Guide",
+      "content": "You can place AMO orders for the next trading day post market closure. AMO\norders can be placed normally like a regular buy/sell order which are pushed\nto the exchange once the market opens.",
+      "content_length": 190,
+      "source_type": "support_page",
+      "timestamp": 1750566405.244576
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/order-status",
+      "title": "Guidance on Checking and Tracking Order Status on Angel One",
+      "content": "Tap on Orders at the bottom of your screen\nClick on Open Orders to see all your Pending Orders\nYou will be able to see your Executed Orders by clicking on the Position\nYou can also view complete list of orders by clicking order history button\nunder open orders",
+      "content_length": 260,
+      "source_type": "support_page",
+      "timestamp": 1750566406.37357
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/robo-order",
+      "title": "Comprehensive Support for Robo Orders at Angel One",
+      "content": "A Robo order is a multi-leg order used in intraday trading which allows you to\nplace 2 more orders along with the initial order. One order is placed at a\nprice lower than order price and other placed at a price higher than order\nprice.\nOrder is automatically exited when any of the defined targets are met.\nThese orders can be exited manually before hitting target or stop loss targets\nas well.",
+      "content_length": 394,
+      "source_type": "support_page",
+      "timestamp": 1750566407.4954538
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/limit-order",
+      "title": "Comprehensive Support for Limit Orders | Angel One",
+      "content": "It does not guarantee that your order will be executed even if your price has\nbeen reached. Orders are queued while being bought or sold. For Example.\nAssume you placed a Buy limit order of 100 Rs for the ABC script. Let’s say\nthere are 100 buyers and 50 sellers waiting to trade in ABC at 100. ABC is\ncurrently trading at 105 Rs and after a few minutes, it reaches 100 Rs. Since\nthere are only 50 sellers for 100 Rs, only 50 buyers will be able to buy the\nscript once this price is reached. As for the other 50 buyers, they’ll have to\nwait until more sellers become available.",
+      "content_length": 577,
+      "source_type": "support_page",
+      "timestamp": 1750566408.6161542
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/basket-order",
+      "title": "Efficiently Manage and Track Your Basket Orders | Angel One",
+      "content": "Basket Order is a feature that allows you to place multiple orders at the same\ntime in a single click.",
+      "content_length": 102,
+      "source_type": "support_page",
+      "timestamp": 1750566415.300055
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/types-of-orders",
+      "title": "Types of Orders at Angel One - Detailed Support and Guidance",
+      "content": "In a Limit Order the buying price or sell price is specified and the trade is\nexecuted only when the price is met.\nIn contrast, a Market Order gets executed at the current market price.",
+      "content_length": 185,
+      "source_type": "support_page",
+      "timestamp": 1750566422.148391
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/square-off",
+      "title": "Detailed Support for Square Off Orders | Angel One",
+      "content": "Below are the timings for Intraday Square-Off:\nEquity Segment: 3:15 pm\nFutures Options Segment: 3:20 pm\nCurrency Segment: 4:45 pm\nCommodity Segment: 11:15/11:45 pm ( Depending on Daylight Savings Time)",
+      "content_length": 201,
+      "source_type": "support_page",
+      "timestamp": 1750566423.271164
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/options",
+      "title": "Comprehensive Support for Options Contract | Angel One",
+      "content": "If your stock options contract expire in ITM (Profit), you will have to\npurchase your contracts. As a result, if you are not interested in purchasing\nthe contracts and only interested in trading them, it is recommended that you\nsell them before they expire.",
+      "content_length": 257,
+      "source_type": "support_page",
+      "timestamp": 1750566424.412713
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/stop-loss-order",
+      "title": "Detailed Support for Stop Loss Orders | Angel One",
+      "content": "It may happen if you have a pending Stop-Loss (SL) or an exit order already.\nWith an already pending stop-loss or exit order, you will need extra funds to\nbe able to place a duplicate SL/exit order. If you do not have this extra fund\nin your account, then your duplicate exit order will get rejected. That’s why\nwe inform you while exiting if there’s a Pending SL/exit order against a\nposition, to avoid any duplicate orders and rejections.",
+      "content_length": 440,
+      "source_type": "support_page",
+      "timestamp": 1750566425.520063
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/margin-calculator",
+      "title": "Support for Margin Calculator and its Significance | Angel One",
+      "content": "Margin means the amount required to buy a specific stock/Index & differ from\nIndex to Index or share to share.\n[Margin calculator](https://www.angelone.in/margin-calculator) helps you to\nknow the required Margin for a strategy that you wish to take.",
+      "content_length": 249,
+      "source_type": "support_page",
+      "timestamp": 1750566439.699404
+    },
+    {
+      "url": "https://www.angelone.in/support/your-orders/order-rejection",
+      "title": "Order Rejection Issues: Why Order get Rejected? | Angel One",
+      "content": "Orders can get rejected due to multiple reasons including insufficient margin,\nincorrect use of order type, stock not available for trading, etc.\nTap on Order History under Orders tab to find your Order Rejection reason",
+      "content_length": 219,
+      "source_type": "support_page",
+      "timestamp": 1750566440.8310301
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/add-and-withdraw-funds",
+      "title": "Guide to Add Funds in Angel One Account? Secure Online Fund Transfer",
+      "content": "If your trading balance is not updated after a successful fund addition, it\ncould be due to the following reasons:\n1. **High Volume of Requests** : When there is a high volume of fund addition requests, it might take some time to update your balance. Please wait for 15 minutes.\n2. **Bank Account Issues** : Ensure you add funds from the bank account registered with Angel One, and the account should be in your name. If funds are added from an unregistered bank account, the amount might get deducted but will be credited back in 3-4 working days.",
+      "content_length": 548,
+      "source_type": "support_page",
+      "timestamp": 1750566442.0070798
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/complaince",
+      "title": "Guide on Trading and Surveillance Compliance | Angel One",
+      "content": "बाजार निगरानी बाजारों की सुरक्षा और अखंडता सुनिश्चित करने में महत्वपूर्ण\nभूमिका निभाती है क्योंकि यह प्रतिभूति बाजारों में अपमानजनक, चालाकीपूर्ण या\nअवैध व्यापार प्रथाओं की रोकथाम और जांच की प्रक्रिया है। निगरानी उपाय नियामक\nनिकायों और एक्सचेंजों द्वारा मूल्य और अस्थिरता की निगरानी करके और अंदरूनी\nव्यापार, फर्जी लेनदेन और अधिक जैसी भ्रामक गतिविधियों का पता लगाकर व्यापारियों\nऔर निवेशकों की सुरक्षा के लिए एक पहल है।",
+      "content_length": 416,
+      "source_type": "support_page",
+      "timestamp": 1750566443.1844742
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits",
+      "title": "Account Verification - Angel One",
+      "content": "Verifying your mobile number helps us create a secure account for you,\nensuring a smooth app experience and the safety of your account.",
+      "content_length": 135,
+      "source_type": "support_page",
+      "timestamp": 1750566525.147083
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/ipo-ofs",
+      "title": "Assistance for IPO Application Process, Allotment Status | Angel One",
+      "content": "आम तौर पर, आप अपनी यूपीआई आईडी उस संबंधित ऐप के प्रोफ़ाइल अनुभाग में पा सकते\nहैं जिसका आप उपयोग कर रहे हैं।",
+      "content_length": 107,
+      "source_type": "support_page",
+      "timestamp": 1750566531.638106
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/angel-one-recommendations",
+      "title": "Advisory and Recommendations by Angel One to Minimize Risk and Maximize Profit",
+      "content": "सिफ़ारिशें जोखिम को कम करने और लाभ को अधिकतम करने में मदद करने के लिए एंजेल वन\nद्वारा सुझाए गए स्टॉक हैं।\nआप विजिट करके सिफ़ारिशें देख सकते हैं\n[https://www.angelone.in/trade/home](https://www.angelone.in/trade/home)\nआपको इस स्क्रीन पर \"सलाहकार के माध्यम से शीर्ष स्टॉक चयन\" अनुभाग के तहत\nसिफारिशें मिलेंगी।",
+      "content_length": 307,
+      "source_type": "support_page",
+      "timestamp": 1750566532.8298209
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charts",
+      "title": "Chart Not Loading: Troubleshoot Chart Issues | Angel One",
+      "content": "Open Playstore\nSearch for Google Chrome on Playstore\nUpdate Google Chrome or your default browser to the latest version\nThe chart should load successfully now\nIf the chart loading fails & issue still exists :\nOpen Playstore again\nSearch for Android System Webview\nClick to Update the Android System Webview to the latest version",
+      "content_length": 328,
+      "source_type": "support_page",
+      "timestamp": 1750566534.0184
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements",
+      "title": "Client Master List Importance & How to Access It? | Angel One",
+      "content": "क्लाइंट मास्टर लिस्ट (सीएमएल) एक दस्तावेज है जिसमें आपके डीमैट खाते का विवरण\nहोता है जिसमें आपकी जानकारी जैसे नाम, पता, जन्मतिथि, बैंक खाता, नामांकन आदि\nशामिल होते हैं।\nक्लाइंट मास्टर सूची के बारे में जानने के लिए “[Click Here](\nhttps://www.angelone.in/knowledge-center/share-market/guide-to-client-master-\nreport )“",
+      "content_length": 316,
+      "source_type": "support_page",
+      "timestamp": 1750566535.194035
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/loans",
+      "title": "Active Loans - Angel One",
+      "content": "The repayment schedule is not available on the app. You can request your\nrepayment schedule by:\n* Emailing at: **support@creditsaison-in.com**\n* Calling: **18001038961**",
+      "content_length": 169,
+      "source_type": "support_page",
+      "timestamp": 1750566548.6872692
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/mutual-funds",
+      "title": "Mutual Fund Orders with Angel One: Guide on Tracking MF Orders?",
+      "content": "लागू एनएवी संबंधित एएमसी हाउस द्वारा फंड की वसूली पर आधारित है और कट-ऑफ से\nपहले बीएसई स्टार द्वारा सफल ऑर्डर प्रोसेसिंग के अधीन है। यहां 'धन की प्राप्ति'\nका मतलब है कि आपके ऑर्डर के लिए लागू एनएवी इस पर निर्भर करेगा कि फंड हाउस को\nपैसा प्राप्त हुआ है या नहीं।\nकृपया विभिन्न प्रकार के फंडों और ऑर्डरों के लिए कट-ऑफ समय का पता लगाएं\nआगे,\n1. शनिवार, रविवार और अन्य बाजार/सार्वजनिक छुट्टियों पर दिए गए ऑर्डर के लिए एनएवी प्रयोज्यता इस बात पर निर्भर करती है कि एक्सचेंज पर ऑर्डर कब दिए गए हैं। यह रहा **the** अगला व्यवसाय दिवस।\n2. UPI मोड के माध्यम से किए गए भुगतान का परिणाम आम तौर पर होता है **एक ही दिन** यदि ऑर्डर कट-ऑफ से पहले दिया गया है तो एनएवी। **ऐसा इसलिए होता है क्योंकि ICCL का निपटान आमतौर पर UPI के माध्यम से किए जाने पर कट-ऑफ से पहले होता है।** एंजेल वन आईसीसीएल निपटान के लिए भुगतान एग्रीगेटर पर निर्भर करता है।\n3. नेटबैंकिंग के माध्यम से किए गए भुगतान का परिणाम आम तौर पर अगले कार्य दिवस का एनएवी होता है। ऐसा इसलिए होता है क्योंकि ICCL का निपटान वास्तविक समय पर नहीं होता है और आम तौर पर 'T+1' आधार पर होता है। एंजेल वन आईसीसीएल निपटान के लिए भुगतान एग्रीगेटर पर निर्भर करता है। इसलिए भले ही ऑर्डर और भुगतान कट-ऑफ से पहले सफल हो, यदि भुगतान मोड नेटबैंकिंग है, तो इसका परिणाम अगले दिन का एनएवी हो सकता है।\n4. संक्षेप में, कुछ मामलों में, भले ही ऑर्डर और भुगतान कट-ऑफ से पहले होता है, एनएवी निर्भर करेगा **आईसीसीएल को निपटान और एएमसी द्वारा धन की वसूली पर**",
+      "content_length": 1368,
+      "source_type": "support_page",
+      "timestamp": 1750566549.8910441
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks",
+      "title": "DP Charges: Get the Full Breakdown of DP Charges at Angel One",
+      "content": "Depository Participant (DP) charges are combined charges imposed by CDSL and\nAngel One on every **sell transaction** of equity delivery shares. Please note\nthat DP charges are **not applicable on intraday trades or delivery buy\ntransactions**. The details are as below.\n**Equity delivery** : Rs. 20+GST per sale transaction, split as below.\n(Male – INR 3.5 (CDSL) + INR 16.5 (Angel One Charge))\n(Female – INR 3.25 (CDSL) + INR 16.75 (Angle One Charge))\nउदाहरण के लिए,\nIf you sell 100 shares of TCS on Monday at 10 am and again sell 50 shares\nlater in the day, DP charges will be applicable twice. The total DP charges\nlevied in this case will be Rs. 47.2.",
+      "content_length": 655,
+      "source_type": "support_page",
+      "timestamp": 1750566551.673106
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/margin-pledging-and-margin-trading-facility",
+      "title": "Guide on Available Trading Margin & How to Optimise in Angel One?",
+      "content": "Tap on Account at the bottom of your screen\nट्रेडिंग बैलेंस पृष्ठ के शीर्ष पर कार्ड पर दिखाया गया है\nफंड के बारे में अधिक विवरण देखने के लिए ट्रेडिंग बैलेंस कार्ड पर क्लिक करें",
+      "content_length": 176,
+      "source_type": "support_page",
+      "timestamp": 1750566558.467641
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions",
+      "title": "Bonus Issues with Angel One: How to Manage Bonus Issues in Portfolio?",
+      "content": "बोनस शेयर कंपनी द्वारा मौजूदा शेयरधारकों को शेयरधारक के पास मौजूद शेयरों के\nअनुपात में मुफ्त में दिए जाने वाले अतिरिक्त शेयर हैं।",
+      "content_length": 129,
+      "source_type": "support_page",
+      "timestamp": 1750566565.3941708
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account",
+      "title": "How to Submit Family Declaration? Managing Angel One Account",
+      "content": "As per regulatory requirement, every KYC account should have a separate and\nunique mobile number and email address . In case if account holder wishes to\nuse common email Id/ Mobile number for more than one account of family, it can\nbe done after submitting a written declaration giving required details and\nduly signed by people involved.",
+      "content_length": 338,
+      "source_type": "support_page",
+      "timestamp": 1750566566.573013
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits/payments-and-withdrawal",
+      "title": "Payments and Withdrawal - Angel One",
+      "content": "A payout account is where your fixed deposit investments will be credited upon\nmaturity. This is the account where you will receive your money back.",
+      "content_length": 148,
+      "source_type": "support_page",
+      "timestamp": 1750566573.4334211
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits/account-verification",
+      "title": "Account Verification - Angel One",
+      "content": "Verifying your mobile number helps us create a secure account for you,\nensuring a smooth app experience and the safety of your account.",
+      "content_length": 135,
+      "source_type": "support_page",
+      "timestamp": 1750566579.826599
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits/eligibility",
+      "title": "Eligibility - Angel One",
+      "content": "Yes, you can invest in multiple Fixed Deposits (FDs) with different providers.\nYou can also have multiple FDs with the same provider.",
+      "content_length": 133,
+      "source_type": "support_page",
+      "timestamp": 1750566586.606848
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits/consent-security",
+      "title": "Consent & Security - Angel One",
+      "content": "To ensure a smooth and secure onboarding process, we require certain\npermissions to fetch and validate your personal details and for KYC purposes.\nThese permissions are only used for account creation and validation.",
+      "content_length": 215,
+      "source_type": "support_page",
+      "timestamp": 1750566587.7334468
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits/post-purchase",
+      "title": "Post Purchase - Angel One",
+      "content": "It can take some time for the bank to verify your application. You will\nreceive an SMS notification once the FD is approved, which can take up to 24\nhours. You can also track the status on the app dashboard.",
+      "content_length": 207,
+      "source_type": "support_page",
+      "timestamp": 1750566588.865372
+    },
+    {
+      "url": "https://www.angelone.in/support/fixed-deposits/fixed-deposit-options",
+      "title": "Fixed Deposit Options - Angel One",
+      "content": "A fixed deposit (FD) is a popular and safe investment option in India. You\ninvest a lump sum of money at an agreed interest rate and receive the amount\nalong with interest upon maturity. The interest rates are fixed, higher than a\nregular savings account, and the investment is protected from market\nfluctuations.",
+      "content_length": 313,
+      "source_type": "support_page",
+      "timestamp": 1750566590.010433
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/call-and-trade-charges",
+      "title": "Checkout the Charges for Call and Trade in Angel One",
+      "content": "Call & Trade charges are applicable if the transaction is done over a phone\ncall.\nCharges for Call & Trade are Rs 20+GST per executed Order.\nThey are levied only after the execution of a trade.",
+      "content_length": 193,
+      "source_type": "support_page",
+      "timestamp": 1750566596.896052
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/pledging-charges",
+      "title": "Angel One Pledging Charges: Pledging of shares",
+      "content": "Pledging of shares is charged a flat transaction fee, irrespective of the\nquantity pledged. A fixed transaction fee of ₹20 + GST is charged for each\npledge and unpledge request, regardless of the number of shares. The split is\nas follows.\nINR 5 (Depository) + INR 15 (Angel One Charge) + GST",
+      "content_length": 291,
+      "source_type": "support_page",
+      "timestamp": 1750566598.071479
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/brokerage-charges",
+      "title": "Guide to Brokerage Charges for Different Securities at Angel One",
+      "content": "You can check the charges by clicking ‘Trades & Charges’ on the ‘Account\nSection’ of the app. Here, you can see both trade and non-trade charges\n(including charges by Angel One and external charges). [Click\nhere](https://www.angelone.in/exchange-transaction-charges) to know more about\nall the applicable charges.",
+      "content_length": 313,
+      "source_type": "support_page",
+      "timestamp": 1750566599.2285051
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/dp-charges",
+      "title": "DP Charges: Get the Full Breakdown of DP Charges at Angel One",
+      "content": "Depository Participant (DP) charges are combined charges imposed by CDSL and\nAngel One on every **sell transaction** of equity delivery shares. Please note\nthat DP charges are **not applicable on intraday trades or delivery buy\ntransactions**. The details are as below.\n**Equity delivery** : Rs. 20+GST per sale transaction, split as below.\n(Male – INR 3.5 (CDSL) + INR 16.5 (Angel One Charge))\n(Female – INR 3.25 (CDSL) + INR 16.75 (Angle One Charge))\nFor example,\nIf you sell 100 shares of TCS on Monday at 10 am and again sell 50 shares\nlater in the day, DP charges will be applicable twice. The total DP charges\nlevied in this case will be Rs. 47.2.",
+      "content_length": 653,
+      "source_type": "support_page",
+      "timestamp": 1750566600.358399
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/stt-securities-transaction-tax",
+      "title": "Securities Transaction Tax (STT) Charges on Trading | Angel One",
+      "content": "Securities Transaction Tax is a direct tax charged on the purchase and sale of\nsecurities that are listed on stock exchanges.\n**Buy and Sale of equity delivery shares:** 0.1% per executed order\n**Sale of equity intraday shares:** 0.025% per executed order\n**Sale of futures in securities:** STT shall be revised to 0.02% from 0.0125%\n**Sale of options in securities:** STT shall be revised to 0.1% of premium\nfrom 0.0625%",
+      "content_length": 421,
+      "source_type": "support_page",
+      "timestamp": 1750566601.4733691
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/transaction-turnover-charges",
+      "title": "Know the Transaction Turnover Charges for Trading at Angel One",
+      "content": "Transaction/Turnover charges are charges that are levied by the Exchange on\nthe turnover from every trader to provide them with the technology platform to\nbuy & sell securities. [Click here](https://www.angelone.in/exchange-\ntransaction-charges) to check the details on transaction charges.",
+      "content_length": 290,
+      "source_type": "support_page",
+      "timestamp": 1750566602.6024451
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/sebi-charges",
+      "title": "SEBI Charges for sale and purchase of securities at Angel One",
+      "content": "SEBI charges are fees levied by SEBI for sale and purchase transactions in all\ntypes of securities.",
+      "content_length": 99,
+      "source_type": "support_page",
+      "timestamp": 1750566609.486134
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/dp-depository-participant-charges",
+      "title": "Explore the DP (Depository Participant) Charges in Angel One",
+      "content": "DP(Depository Participant) charges are applied at the time of selling shares\nfrom your DEMAT account.\nDP Charges are levied on a per-scrip, per-transaction basis. They don’t depend\non the quantity of shares you sold, but on the number of different\nscrips/shares/securities that you sell.\nDP Charges are levied at Rs 20 (+ 18% GST) per scrip per transaction.",
+      "content_length": 357,
+      "source_type": "support_page",
+      "timestamp": 1750566610.614576
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/gst-goods-services-tax",
+      "title": "Angel One GST (Goods and Services Tax) Charges on Trading",
+      "content": "Stock brokers provide broking service, and hence are liable to pay Goods &\nServices tax, which is covered in the GST invoice",
+      "content_length": 124,
+      "source_type": "support_page",
+      "timestamp": 1750566617.367396
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/brokerage-plan",
+      "title": "Instructions to Check Your Angel One Brokerage Plans?",
+      "content": "You can check your brokerage plan in the Angel app. Navigate to the **Account\n→ Profile → Brokerage & Charges** screen on the app. You will be able to see\nyour brokerage plan and corresponding charges here.",
+      "content_length": 206,
+      "source_type": "support_page",
+      "timestamp": 1750566618.472044
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/brokerage-cashback",
+      "title": "Explore Angel One Brokerage Cashback Offers and Charges",
+      "content": "Brokerage Discount is offered to certain new customers for the first month\nonly. Below are the Terms & Conditions:\n* This is a one-time and exclusive offer for new customers and might not apply to all users.\n* The validity of free brokerage is 30 days on all trades from the date of account opening, with an upper limit of ₹500.\n* Brokerage will not be charged; it will simply be discounted if applicable on a certain trade.\nPlease note: Angel One reserves the right, in its absolute discretion, to\nchange, alter or discontinue the offer and shall communicate the same to the\nclient via email.",
+      "content_length": 593,
+      "source_type": "support_page",
+      "timestamp": 1750566619.5963678
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/dp-charges",
+      "title": "DP Charges: Get the Full Breakdown of DP Charges at Angel One",
+      "content": "Depository Participant (DP) charges are combined charges imposed by CDSL and\nAngel One on every **sell transaction** of equity delivery shares. Please note\nthat DP charges are **not applicable on intraday trades or delivery buy\ntransactions**. The details are as below.\n**Equity delivery** : Rs. 20+GST per sale transaction, split as below.\n(Male – INR 3.5 (CDSL) + INR 16.5 (Angel One Charge))\n(Female – INR 3.25 (CDSL) + INR 16.75 (Angle One Charge))\nउदाहरण के लिए,\nIf you sell 100 shares of TCS on Monday at 10 am and again sell 50 shares\nlater in the day, DP charges will be applicable twice. The total DP charges\nlevied in this case will be Rs. 47.2.",
+      "content_length": 655,
+      "source_type": "support_page",
+      "timestamp": 1750566620.717029
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/account-maintenance-charges",
+      "title": "Guidance on Angel One AMC Charges (Account Maintenance Charges)",
+      "content": "Account Maintenance Charge (AMC) is a fixed quarterly charge that is billed to\nyour account.\nAccount maintenance charges for the first year are 0. However, the following\nare the charges for customers from 2nd year onwards.\n1. Non-BSDA (Basic Services Demat Account) Clients – Rs. 60+ GST billed every quarter (Charged after your first trade each quarter).\n2. For BSDA Clients –\nIf the holding value is less than 4 lakh, AMC is 0.\nIf the holding value is between 4 lakh and 10 lakh, AMC is Rs. 100+GST billed\nevery year.\nYou can check the AMC levied to your account by navigating to **Account →\nTrades and Charges → Other Charges** screen on the app.",
+      "content_length": 649,
+      "source_type": "support_page",
+      "timestamp": 1750566621.848109
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/stock-pledging-charges",
+      "title": "Guide on Charges for Stock Pledging and Unpledging at Angel One",
+      "content": "A fixed transaction fee of ₹20 + GST is charged for each pledge and unpledge\nrequest, regardless of the number of shares. The split is as follows.\nINR 5 (Depository) + INR 15 (Angel One Charge) + GST\nFor example,\nSuppose you want to pledge 100 shares of ABC Ltd. and 50 shares of XYZ Ltd.\nYou will be charged ₹40 + GST for 2 requests, irrespective of the number of\nshares in each request.\nSimilarly, if you want to place one unpledge request for 100 shares of ABC\nLtd. and two unpledge requests for 50 shares and 20 shares of XYZ Ltd,\nrespectively. In this case, you will be charged (₹20 x 3) = ₹60 + GST for 3\nrequests, irrespective of the number of shares in each request.",
+      "content_length": 674,
+      "source_type": "support_page",
+      "timestamp": 1750566622.986889
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/off-mkt-transaction-charges",
+      "title": "Off-Market Transaction Charges and Duration at Angel One",
+      "content": "Off-MKT transactions charges are applicable when you transfer shares from one\ndemat account to another",
+      "content_length": 102,
+      "source_type": "support_page",
+      "timestamp": 1750566629.7960792
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/stamp-duty",
+      "title": "Get to Know Stamp Duty Charges for Trading in Stocks at Angel One",
+      "content": "Stamp duty is a direct tax levied on trading in stocks, currency derivatives\nand commodities, payable under Section 3 of the Indian Stamp Act, 1899.",
+      "content_length": 148,
+      "source_type": "support_page",
+      "timestamp": 1750566636.6518002
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/penal-delayed-payment-charges",
+      "title": "Explore the Penal Delayed Payment Charges at Angel One",
+      "content": "Delayed Payment Charges (DPC) are the charges levied to clients; on the\noverall ledger debit from Trading day +2.",
+      "content_length": 113,
+      "source_type": "support_page",
+      "timestamp": 1750566643.705048
+    },
+    {
+      "url": "https://www.angelone.in/support/charges-and-cashbacks/auto-square-off-charges",
+      "title": "Guide on Auto Square-Off Charges for Angel One Trading Account",
+      "content": "The charges for Auto Square Off are Rs 20 per executed order.",
+      "content_length": 61,
+      "source_type": "support_page",
+      "timestamp": 1750566650.544272
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/angel-one-recommendations/charges-and-frequency",
+      "title": "Advisory and Recommendations by Angel One to Minimize Risk and Maximize Profit",
+      "content": "सिफ़ारिशें जोखिम को कम करने और लाभ को अधिकतम करने में मदद करने के लिए एंजेल वन\nद्वारा सुझाए गए स्टॉक हैं।\nआप विजिट करके सिफ़ारिशें देख सकते हैं\n[https://www.angelone.in/trade/home](https://www.angelone.in/trade/home)\nआपको इस स्क्रीन पर \"सलाहकार के माध्यम से शीर्ष स्टॉक चयन\" अनुभाग के तहत\nसिफारिशें मिलेंगी।",
+      "content_length": 307,
+      "source_type": "support_page",
+      "timestamp": 1750566651.6544771
+    },
+    {
+      "url": "https://www.angelone.in/support/angel-one-recommendations/charges-and-frequency",
+      "title": "Advisory and Recommendations by Angel One to Minimize Risk and Maximize Profit",
+      "content": "Recommendations are stocks suggested by Angel One to help you minimize risk\nand maximize profit.\nYou can see the recommendations by visiting\n[https://www.angelone.in/trade/home](https://www.angelone.in/trade/home)\nYou will find the recommendations under “Top Stock Picks via Advisory” section\non this screen.",
+      "content_length": 308,
+      "source_type": "support_page",
+      "timestamp": 1750566652.7697039
+    },
+    {
+      "url": "https://www.angelone.in/support/charts/indicators",
+      "title": "Explore Buy and Sell Indicators in Charts at Angel One",
+      "content": "Absolute (OpenPrice – ClosePrice) / Absolute (HighPrice – LowPrice) < 0.5,\nColour it as Boring Candle\nAbsolute (OpenPrice – ClosePrice) / Absolute (HighPrice – LowPrice) > 0.5,\nColour it as Explosive Candle\nIf the value = 0.5 , do not change the candle colour",
+      "content_length": 259,
+      "source_type": "support_page",
+      "timestamp": 1750566653.8967218
+    },
+    {
+      "url": "https://www.angelone.in/support/charts/trade-from-charts",
+      "title": "Guidance of How to Use Angel One Trade From Charts?",
+      "content": "Please find the details of Trade from Charts functionality in [this\narticle](https://www.angelone.in/blog/now-trade-assets-and-track-orders-\ndirectly-from-charts-on-the-angel-one-web-app).",
+      "content_length": 188,
+      "source_type": "support_page",
+      "timestamp": 1750566668.191427
+    },
+    {
+      "url": "https://www.angelone.in/support/charts/chart-not-loading",
+      "title": "Chart Not Loading: Troubleshoot Chart Issues | Angel One",
+      "content": "Open Playstore\nSearch for Google Chrome on Playstore\nUpdate Google Chrome or your default browser to the latest version\nThe chart should load successfully now\nIf the chart loading fails & issue still exists :\nOpen Playstore again\nSearch for Android System Webview\nClick to Update the Android System Webview to the latest version",
+      "content_length": 328,
+      "source_type": "support_page",
+      "timestamp": 1750566669.331973
+    },
+    {
+      "url": "https://www.angelone.in/support/charts/others",
+      "title": "Other Different Charts Interface Available on Angel One",
+      "content": "Android and IOS mobile app: Chart IQ and Trading View\nWeb: Trading View only",
+      "content_length": 76,
+      "source_type": "support_page",
+      "timestamp": 1750566676.109004
+    },
+    {
+      "url": "https://www.angelone.in/support/charts/drawing-tools",
+      "title": "How to Use Trading Drawing Tools in Charts? | Angel One",
+      "content": "All the indicators are absolutely free on the Angel One.",
+      "content_length": 56,
+      "source_type": "support_page",
+      "timestamp": 1750566682.840171
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements/contract-note",
+      "title": "Contract Note: How to Download the Contract Note in Angel One?",
+      "content": "A contract note is a confirmation of trades done on a particular day.\nTo know more “[Click Here](https://www.angelbroking.com/knowledge-\ncenter/online-share-trading/what-is-a-contract-note-and-how-to-read-it )“",
+      "content_length": 210,
+      "source_type": "support_page",
+      "timestamp": 1750566683.9649448
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements/trade-history-sauda-summary",
+      "title": "Explore the Trade History (Sauda Summary) with Angel One",
+      "content": "Trade history report contains details about all your transactions and\ncorresponding charges with other information such as date, type, and segment\nof order.",
+      "content_length": 156,
+      "source_type": "support_page",
+      "timestamp": 1750566690.7925498
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements/profit-loss",
+      "title": "Profit & Loss Statement: Tracking Investment Performance at Angel One",
+      "content": "You can download the P&L statements from the last two years by following these\nsteps.\n1. Login to your Angel One account.\n2. Go to the Account section in the application.\n3. You will find the Profit and Loss section on this screen. Click on it.\n4. You can see Profit & loss for the selected date range.\n5. Click on the download button.\n6. Choose the Detailed Tax P&L statement if you are filing ITR.\n7. Select the date range and click on download.\nPlease note that you will also find short-term and long-term capital gains in\ntax P&L.",
+      "content_length": 534,
+      "source_type": "support_page",
+      "timestamp": 1750566691.918802
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements/holding-statement",
+      "title": "How to Access & How to Track Holding Statements at Angel One?",
+      "content": "The holding statement provides all the details of your portfolio/holdings at\nany given time. You will find the stock names, average price, quantity, and\nother details in the holding statement.",
+      "content_length": 192,
+      "source_type": "support_page",
+      "timestamp": 1750566698.721716
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements/client-master-list",
+      "title": "Client Master List Importance & How to Access It? | Angel One",
+      "content": "क्लाइंट मास्टर लिस्ट (सीएमएल) एक दस्तावेज है जिसमें आपके डीमैट खाते का विवरण\nहोता है जिसमें आपकी जानकारी जैसे नाम, पता, जन्मतिथि, बैंक खाता, नामांकन आदि\nशामिल होते हैं।\nक्लाइंट मास्टर सूची के बारे में जानने के लिए “[Click Here](\nhttps://www.angelone.in/knowledge-center/share-market/guide-to-client-master-\nreport )“",
+      "content_length": 316,
+      "source_type": "support_page",
+      "timestamp": 1750566699.842769
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements/ledger",
+      "title": "Ledger: How to Track Financial Transaction at Angel One?",
+      "content": "Ledger is a record of your account transactions, updated daily.\nIt contains details of fund pay-ins and fund withdrawals, payments made for\npurchases, payments received for sell transactions, and charges incurred.\nIt also gives a running balance of the cash limit in your account.\nFor details on how to read ledger “[Click\nHere](https://www.angelone.in/knowledge-center/share-market/ledger-narration)“",
+      "content_length": 401,
+      "source_type": "support_page",
+      "timestamp": 1750566700.962275
+    },
+    {
+      "url": "https://www.angelone.in/support/reports-and-statements/client-master-list",
+      "title": "Client Master List Importance & How to Access It? | Angel One",
+      "content": "Client Master List (CML) is a document with details of your DEMAT account\nproviding your information such as name, address, DOB, bank account,\nnominations etc.\nTo know about Client Master List “[Click Here](\nhttps://www.angelone.in/knowledge-center/share-market/guide-to-client-master-\nreport )“",
+      "content_length": 295,
+      "source_type": "support_page",
+      "timestamp": 1750566702.074304
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/stock-split",
+      "title": "Stock Split: How to Manage Stock Splits? | Angel One",
+      "content": "You will receive the Stock Split shares in 3-4 trading days after the record\ndate.\nIn case you do not receive the same post 5 days from the Record date you can\ncheck the status with the Registrar (RTA).\nYou can find the details of the Registrar on the BSE India website by visiting\nthe Corp Information section.",
+      "content_length": 311,
+      "source_type": "support_page",
+      "timestamp": 1750566703.214696
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/holdings-portfolio",
+      "title": "Guid on Managing Your Holdings and Portfolio with Angel One",
+      "content": "Shares will be in pool account due to 2 reasons:\nYour account is in debit\nShares have not been settled yet. Shares are settled on Trading day + 2 days.",
+      "content_length": 151,
+      "source_type": "support_page",
+      "timestamp": 1750566710.051789
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/tpin",
+      "title": "Transaction Personal Identification Number: How to Generate TPIN? | Angel One",
+      "content": "TPIN stands for Transaction Personal Identification Number.\nCDSL has introduced TPIN, which will enable investors to authorise selling\nsecurities from their demat accounts virtually.\nFor Non POA clients, TPIN verification will be valid for 1 day.\nOnce you generate TPIN, it will be valid till you generate it again. Hence,\nplease make a note of your TPIN for quicker verification.\nAn OTP will also be required apart from TPIN for selling shares from demat\naccount.",
+      "content_length": 464,
+      "source_type": "support_page",
+      "timestamp": 1750566711.183512
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/buyback",
+      "title": "How to Participate in Buybacks through Angel One?",
+      "content": "It is a corporate action through which a company buys back its own shares from\nthe holders, generally at a price higher than the market price. [Click\nhere](https://www.angelone.in/knowledge-center/share-market/effect-of-buyback-\non-share-price) to know more about the buyback of shares.",
+      "content_length": 286,
+      "source_type": "support_page",
+      "timestamp": 1750566712.282464
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/rights-issue",
+      "title": "Right Issue: Guidance on Applying for Right Issue | Angel One",
+      "content": "Investors can apply for Right Issue shares only through the Application\nSupported by Blocked Amount i.e. ASBA, either online or offline, if they hold\n[Right Entitlement](https://www.angelone.in/knowledge-center/share-\nmarket/what-is-rights-entitlement-know-in-detail) in their demat account.\n**Online ASBA Process:** Most Self-Certified Syndicate Banks (SCSBs) support\nthe online ASBA application process through Net Banking, similar to an IPO\napplication. Investors should refer to their respective SCSB’s website for\ndetailed instructions on applying for the Rights Issue.\n**Offline ASBA Process:** Alternatively, investors can apply by submitting a\nfilled application form at the nearest branch of an SCSB (Self Certified\nSyndicate Bank). The list of eligible branches is available on the [ SEBI\nwebsite](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34).\n**The Composite Application form** (CAF) can be downloaded from **NSE, BSE**\nand **RTA** websites.\nInvestors can also view and download the Rights Issue Application Form\n**(CAF)** , Offer Letter, **Abridged Letter & Entitlement Ratio **– Applicable\nonly for registered holders with holdings as of Record Date, from the RTA\nwebsite. RTA don’t directly accept Right Issue application forms\n(online/offline). Application needs to be channeled through SCSBs only.",
+      "content_length": 1352,
+      "source_type": "support_page",
+      "timestamp": 1750566713.412935
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/dividend",
+      "title": "Dividend: How to Manage Dividends in Angel One Portfolio?",
+      "content": "Dividend is the amount paid by a company to its shareholders out of its\nprofits. To know more about dividend payment [click\nhere](https://www.angelone.in/knowledge-center/share-market/when-are-stock-\ndividends-paid-out).",
+      "content_length": 220,
+      "source_type": "support_page",
+      "timestamp": 1750566714.538476
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/bonus-issue",
+      "title": "Bonus Issues with Angel One: How to Manage Bonus Issues in Portfolio?",
+      "content": "बोनस शेयर कंपनी द्वारा मौजूदा शेयरधारकों को शेयरधारक के पास मौजूद शेयरों के\nअनुपात में मुफ्त में दिए जाने वाले अतिरिक्त शेयर हैं।",
+      "content_length": 129,
+      "source_type": "support_page",
+      "timestamp": 1750566720.936013
+    },
+    {
+      "url": "https://www.angelone.in/support/portfolio-and-corporate-actions/bonus-issue",
+      "title": "Bonus Issues with Angel One: How to Manage Bonus Issues in Portfolio?",
+      "content": "Bonus shares are additional shares given by the company to existing\nshareholders, free of cost, in proportion to the shares held by the\nshareholder.",
+      "content_length": 148,
+      "source_type": "support_page",
+      "timestamp": 1750566727.31534
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/complaince/trading-surveillance",
+      "title": "Guide on Trading and Surveillance Compliance | Angel One",
+      "content": "बाजार निगरानी बाजारों की सुरक्षा और अखंडता सुनिश्चित करने में महत्वपूर्ण\nभूमिका निभाती है क्योंकि यह प्रतिभूति बाजारों में अपमानजनक, चालाकीपूर्ण या\nअवैध व्यापार प्रथाओं की रोकथाम और जांच की प्रक्रिया है। निगरानी उपाय नियामक\nनिकायों और एक्सचेंजों द्वारा मूल्य और अस्थिरता की निगरानी करके और अंदरूनी\nव्यापार, फर्जी लेनदेन और अधिक जैसी भ्रामक गतिविधियों का पता लगाकर व्यापारियों\nऔर निवेशकों की सुरक्षा के लिए एक पहल है।",
+      "content_length": 416,
+      "source_type": "support_page",
+      "timestamp": 1750566728.461594
+    },
+    {
+      "url": "https://www.angelone.in/support/complaince/risk-management-asm-gsm",
+      "title": "Guide on Risk Management, ASM, GSM Compliance | Angel One",
+      "content": "The ASM and GSM lists change from time to time. You can see or download the\ncurrent securities list from the table below.\nExchange | Category\n---|---\nNSE | [ASM Stocks](https://www.nseindia.com/reports/asm)\nNSE | [GSM Stocks](https://www.nseindia.com/reports/gsm)\nBSE | [ASM Stocks](https://www.bseindia.com/markets/equity/EQReports/additional_surveillance_measure.aspx)\nBSE | [GSM Stocks](https://www.bseindia.com/markets/equity/EQReports/graded_surveil_measure.aspx)",
+      "content_length": 468,
+      "source_type": "support_page",
+      "timestamp": 1750566729.5934021
+    },
+    {
+      "url": "https://www.angelone.in/support/complaince/trading-surveillance",
+      "title": "Guide on Trading and Surveillance Compliance | Angel One",
+      "content": "Market surveillance plays a key role in ensuring safety and integrity of the\nmarkets as it the process of prevention and investigation of abusive,\nmanipulative or illegal trading practices in the securities markets.\nSurveillance Measure is an initative by the regulatory bodies and exchanges to\nprotect traders and investors by monitoring price and volatility and detecting\nmisleading activities like insider trading, fictitious transactions, and more.",
+      "content_length": 452,
+      "source_type": "support_page",
+      "timestamp": 1750566730.76351
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/add-and-withdraw-funds/withdrawable-balance",
+      "title": "Guide to Check & Manage Withdrawable Balance in Angel One Account",
+      "content": "Your withdrawable balance is the amount eligible for withdrawal on a given\nday. Any unsettled balance from your trades will be available for withdrawal\non T+1 day (next working day).\nThe following balances will be available for withdrawal on the next working\nday:\n1. Funds from delivery sell transactions.\n2. Profits from intraday transactions.\n3. Profits from F&O transactions.\n4. Funds from commodity and currency transactions.",
+      "content_length": 429,
+      "source_type": "support_page",
+      "timestamp": 1750566731.8820102
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/add-and-withdraw-funds/quarterly-settlement-sebi-payout",
+      "title": "Angel One Quarterly Settlement and SEBI Payout Guide",
+      "content": "There are two reasons why this could happen.\n1. **Quarterly Settlement:** As per the SEBI guidelines, all stockbrokers are required to transfer the funds lying in the client account back to their bank at least once every quarter. The funds will be transferred back to the primary bank account mapped to your Angel One account.\n2. **Fund Settlement Frequency:** Your fund settlement frequency might be set to daily settlement. You can edit it by visiting **Account → Profile → Fund Settlement Frequency** in our mobile app.",
+      "content_length": 522,
+      "source_type": "support_page",
+      "timestamp": 1750566733.013441
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/add-and-withdraw-funds/withdraw-funds",
+      "title": "Guide to Withdraw Funds from Angel One Trading Account?",
+      "content": "We process your fund withdrawal request as per the below timeline:\n**दिन** | **भुगतान अनुरोध समय** | **द्वारा जमा की गई धनराशि (लगभग)**\n---|---|---\nसोमवार से शुक्रवार | 12:00 पूर्वाह्न - 07:00 पूर्वाह्न | सुबह 11:30 बजे, उसी दिन\nप्रातः 07:00 बजे - सायं 05:30 बजे तक | रात्रि 11:30 बजे, उसी दिन\n05:30 अपराह्न - 12:00 पूर्वाह्न | प्रातः 11:30, अगला कार्य दिवस\nSaturday, Sunday | Anytime | प्रातः 11:30, अगला कार्य दिवस\nTrading/Settlement Holiday | Anytime | प्रातः 11:30, अगला कार्य दिवस\nTo learn more about the fund withdrawal cycle, [click\nhere](https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-\nexplained).",
+      "content_length": 629,
+      "source_type": "support_page",
+      "timestamp": 1750566734.1450748
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/ipo-ofs/ofs",
+      "title": "How to Invest in Offer for Sale (OFS) through Angel One?",
+      "content": "अभी तक, हमारे पास ओएफएस ऑर्डर प्लेसमेंट के लिए कोई ऑनलाइन सुविधा नहीं है। आप\nपृष्ठ के नीचे दिए गए लिंक पर जाकर हमें कॉल कर सकते हैं/लिख सकते हैं।",
+      "content_length": 145,
+      "source_type": "support_page",
+      "timestamp": 1750566741.000215
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/ipo-ofs/stock-sip",
+      "title": "Stock SIP (Systematic Investment Plan) Support at Angel One",
+      "content": "स्टॉक एसआईपी एक उपकरण है जो आपके जोखिम प्रोफाइल के अनुसार आपकी पसंद के स्टॉक\nऔर ईटीएफ में नियमित रूप से छोटी मात्रा में निवेश करके आपको धन बनाने में मदद\nकरता है।\nस्टॉक एसआईपी के बारे में अधिक जानने के लिए [Click\nHere](https://www.angelone.in/knowledge-center/online-share-trading/equity-\nsip)",
+      "content_length": 292,
+      "source_type": "support_page",
+      "timestamp": 1750566742.13402
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/ipo-ofs/sovereign-gold-bonds-sgb",
+      "title": "All You Need to Know About Sovereign Gold Bonds (SGB) In Angel One",
+      "content": "एसजीबी सोने के ग्राम में अंकित सरकारी प्रतिभूतियां हैं।\nवे भौतिक सोना रखने का एक विकल्प हैं।\nएसजीबी भारत सरकार की ओर से आरबीआई द्वारा जारी किए जाते हैं।",
+      "content_length": 152,
+      "source_type": "support_page",
+      "timestamp": 1750566749.0414798
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/margin-pledging-and-margin-trading-facility/margin-pledge-unpledge",
+      "title": "How to Pledge and Unpledge securities for Margin in Angel One?",
+      "content": "Margin Pledge also called stock pledge refers to the process of using your\nexisting stocks as collateral for availing additional limits.",
+      "content_length": 136,
+      "source_type": "support_page",
+      "timestamp": 1750566755.914801
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/margin-pledging-and-margin-trading-facility/margin-trading-facility",
+      "title": "Margin Trading Facility(MTF): Enhance Trading Potential with Angel One",
+      "content": "मार्जिन ट्रेडिंग सुविधा (MTF) एक निवेशक को कुल लेनदेन मूल्य का केवल एक अंश का\nभुगतान करके स्टॉक खरीदने की अनुमति देती है। शेष राशि ब्रोकर द्वारा वित्त पोषित\nकी जाती है।\nचित्र के रूप में\nआपके खाते का शेष = रु. 25,000\nएमटीएफ आपको 4 गुना तक क्रय शक्ति देता है = 100,000 रुपये (25,000 x 4)\nइस प्रकार, आपकी बढ़ी हुई क्रय क्षमता अब = रु. 125,000.",
+      "content_length": 340,
+      "source_type": "support_page",
+      "timestamp": 1750566757.052234
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/mutual-funds/investments",
+      "title": "How to Track Mutual Fund Investment in Angel One?",
+      "content": "जब आपका ऑर्डर आपके ऑर्डर टैब के 'पूर्ण' अनुभाग में चला जाएगा तो आपका निवेश\nआपके 'निवेश' टैब में दिखाई देगा।\nऐसा तब होता है जब हमें संबंधित एएमसी द्वारा यूनिट आवंटन की पुष्टि मिलती है। इस\nप्रक्रिया में आम तौर पर ऑर्डर प्लेसमेंट तिथि से 3/4 कार्य दिवस लगते हैं।\nऑर्डर टाइमलाइन में आपके पोर्टफोलियो अपडेट की तारीख हमारा अनुमान है कि एएमसी से\nयूनिट आवंटन की पुष्टि कब होगी।\nकृपया चिंता न करें, इस तारीख का आपकी एनएवी तारीख से कोई संबंध नहीं है। आपकी\nएनएवी तिथि एएमसी द्वारा धन की वसूली पर निर्भर करती है।",
+      "content_length": 500,
+      "source_type": "support_page",
+      "timestamp": 1750566759.0248818
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/mutual-funds/sips",
+      "title": "Support on Investing in Mutual Funds through SIPs in Angel One",
+      "content": "एसआईपी के लिए आपकी मासिक किश्तें एसआईपी के दिन स्वचालित रूप से डेबिट हो\nजाएंगी, यदि आपके एसआईपी ऑटोपे से जुड़े हुए हैं।\nयदि आपने ऑटोपे सेटअप नहीं किया है, तो आपकी किश्तों का भुगतान नहीं किया जाएगा।\nऑटोपे को सेटअप और प्रबंधित करने के लिए, कृपया नीचे दिए गए लिंक पर क्लिक करें\n[ऑटोपे प्रबंधित\nकरें](https://angeloneapp.page.link/?link=https://www.angelone.in/mutual-\nfunds/sipbook/dashboard&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)",
+      "content_length": 458,
+      "source_type": "support_page",
+      "timestamp": 1750566760.161178
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/mtf-activation-deactivation",
+      "title": "Activate and Deactivate MTF on Angel One - Complete Guide",
+      "content": "You can activate MTF or Pay later by visiting the\n[**Profile**](https://angeloneapp.page.जोड़ना/?जोड़ना=https://www.angelone.in/emod2/profile?nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)\npage on the Angel One app.\nAlternatively, you can navigate to **Account → Profile → MTF** to activate MTF\nfor your account. You will have to enter the Aadhar number and verify the OTP.\nOnce the request is submitted, it will take up to 2 working days to activate\nMTF for your account.",
+      "content_length": 512,
+      "source_type": "support_page",
+      "timestamp": 1750566761.292347
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/account-closure",
+      "title": "Account Closure Process at Angel One | How to Close Your Account?",
+      "content": "We are sorry to hear that you want to close your account.\n**You can**[**click\nhere**](https://angeloneapp.page.जोड़ना/?जोड़ना=https://www.angelone.in/emod2/accountClosure?=nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)**to\nsubmit an account closure request or please follow the below steps.**\n1. Navigate to the **Profile** section on the Account screen of the app.\n2. Scroll to the bottom of the screen and click on “**Close Demat and Trading Account** ”.\n3. Read the disclaimer and proceed.\n4. Your account closure request will be processed in **3 working days**.\nPlease note that the account closure is permanent. Once it is closed, you can\nnot open an account with Angel One within 90 days.\nहम भविष्य में फिर से आपकी सेवा करने के लिए तत्पर हैं।",
+      "content_length": 788,
+      "source_type": "support_page",
+      "timestamp": 1750566762.402963
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/mpin-biometric",
+      "title": "MPIN and Biometric Authentication at Angel One: Setup & Usage Guide",
+      "content": "An MPIN is a 4-digit PIN used for two-factor authentication, enhancing your\naccount security. It is used for logging into your Angel One account.",
+      "content_length": 145,
+      "source_type": "support_page",
+      "timestamp": 1750566769.20528
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/segment-activation",
+      "title": "Activate Trading Segments on Angel One - Comprehensive Guide",
+      "content": "You can activate the F&O segment online via the Angel One app.\nYou can request for segment activation by [**clicking\nhere**](https://angeloneapp.page.जोड़ना/?जोड़ना=https://www.angelone.in/emod2/segmentActivation?nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye).\nBut before that, please go through the below steps.\n1. Navigate to **Account → Profile → Manage Segment** section of the app.\n2. Select the segments to be activated.\n3. If you don’t have equity holdings in your account, providing financial proof is mandatory.\n4. You can automatically provide a 6-month bank statement as financial proof by entering the bank name and mobile number जोड़नाed to your bank.\n5. You can also manually upload the 6 months bank statement as financial proof.\n6. If you don’t have bank statement, you can provide any of the below documents as financial proof.\n1. Passbook\n2. Salary Slip\n3. ITR Acknowledgement\n4. फॉर्म 16\n5. Demat Account Statement\n7. You will be redirected for e-signing the request. Enter the Aadhar details & OTP sent from Adhaar on your mobile number.\n8. The request will be processed in 2 working days.\nPlease [**visit this page**](https://www.angelone.in/knowledge-center/trading-\naccount/heres-how-you-can-activate-a-segment-in-angel-one) for a more detailed\nguide.",
+      "content_length": 1314,
+      "source_type": "support_page",
+      "timestamp": 1750566770.3545542
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/other-services",
+      "title": "Explore Additional Services by Angel One: Enhance Trading Experience",
+      "content": "वर्तमान में हमारे पास ट्रेडिंग के लिए कोई डेस्कटॉप एप्लिकेशन नहीं है। हमने\nव्यापारिक आवश्यकताओं को पूरा करने के लिए अपने वेब प्लेटफ़ॉर्म को अनुकूलित किया\nहै। यदि आप किसी विशिष्ट सुधार की तलाश में हैं तो हमें अवश्य बताएं।",
+      "content_length": 220,
+      "source_type": "support_page",
+      "timestamp": 1750566771.483393
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/account-settings-2",
+      "title": "Angel One Account Settings: Update Your Personal Information",
+      "content": "You can set a price or volume alert on the Angel One mobile app by following\nthe below steps.\n1. Select the desired stock and click on Stock details.\n2. Click on the alarm icon in the top right corner.\n3. Set alerts based on either price or volume; Configure the parameters & conditions.\n4. Press Create Alert.\n5. To view or modify alerts, go to the home page, click the bell icon at the top, and visit the Alerts section.",
+      "content_length": 422,
+      "source_type": "support_page",
+      "timestamp": 1750566772.597924
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/online-account-opening",
+      "title": "How to Open Online Account with Angel One? Step-by-Step Guidance",
+      "content": "Once your KYC documents are submitted, it may take up to **3 working days** to\nactivate your account. You will receive your client ID on the registered email\naddress.",
+      "content_length": 166,
+      "source_type": "support_page",
+      "timestamp": 1750566779.5162618
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/dormant-account",
+      "title": "Dormant Accounts at Angel One - Reactivation & Importance",
+      "content": "आपका खाता निम्नलिखित कारणों से निष्क्रिय/निष्क्रिय हो सकता है:\n1. आपने एक वर्ष से अधिक समय से एंजेल वन के साथ कोई वित्तीय लेनदेन (ट्रेडिंग, पे-इन, आदि) नहीं किया है।\n2. यदि निम्नलिखित 6 प्रोफ़ाइल विवरणों में से कोई भी गायब है: नाम, पैन, पता, आय सीमा, मोबाइल नंबर, ईमेल आईडी\n3. आपको सेबी द्वारा व्यापार करने से प्रतिबंधित कर दिया गया है।\n4. बकाया राशि का मामला है.",
+      "content_length": 363,
+      "source_type": "support_page",
+      "timestamp": 1750566780.62739
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/profile-details",
+      "title": "How to Update Your Profile Details on Angel One? Step-by-Step Guide",
+      "content": "You can directly submit mobile number modification request online via the\nAngel One app.\n**Please**[**click\nhere**](https://angeloneapp.page.जोड़ना/?जोड़ना=https://www.angelone.in/emod2/personaldetails/mobile?nonTradeToken%3D&apn=com.msf.angelmobile&isi=1060530981&ibi=com.angelbroking.angeleye)**or\nfollow the below steps to submit a request.**\n1. Navigate to the **Profile section** on the Account screen of the app.\n2. Click on **Personal Details**.\n3. Click on the pen icon next to your mobile number.\n4. Here you will be able to submit a modification request by adding your new mobile number.\n5. Please note that you need to verify the OTP and Esign to submit the request.\nOnce the request is submitted successfully, your mobile number will be updated\nwithin 3-5 working days.\nPlease [**visit this page**](https://www.angelone.in/knowledge-center/demat-\naccount/how-to-update-profile-on-angel-one-app) for a more detailed guide.",
+      "content_length": 933,
+      "source_type": "support_page",
+      "timestamp": 1750566781.7712379
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/subscription-plans",
+      "title": "Angel One Account Subscription Plans: Guide on Purchase Plans",
+      "content": "A subscription plan is a tailored package designed for our clients that\nprovides exclusive trading benefits. These benefits vary depending on the plan\nand include zero brokerage trades, reduced interest rates on Margin Trading\nFacility (MTF), and combination offers. Plans are purchased with an upfront\npayment and are valid for a predetermined period, with specific usage limits\nattached.",
+      "content_length": 389,
+      "source_type": "support_page",
+      "timestamp": 1750566782.916679
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-account/kyc-status",
+      "title": "Support on KYC Status with Angel One | Verify & Update Easily",
+      "content": "इसका मतलब यह हो सकता है कि किसी कारण से, आपका हस्ताक्षर मान्य नहीं किया जा सका\n- यह या तो इसलिए हो सकता है क्योंकि हस्ताक्षर स्वयं वैध नहीं था या किसी अन्य\nकारण से। लेकिन चिंता की कोई बात नहीं! हमारी बिक्री टीम समस्या को सुलझाने और\nकेवाईसी प्रक्रिया को पूरा करने में आपकी मदद करने के लिए शीघ्र ही आपके पास\nपहुंचेगी।",
+      "content_length": 315,
+      "source_type": "support_page",
+      "timestamp": 1750566784.026599
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/placing-an-order",
+      "title": "Learn How to Place an Order in Angel One? Comprehensive Guide",
+      "content": "आप बाजार बंद होने के बाद अगले कारोबारी दिन के लिए एएमओ ऑर्डर दे सकते हैं। एएमओ\nऑर्डर सामान्य रूप से नियमित खरीद/बिक्री ऑर्डर की तरह रखे जा सकते हैं जिन्हें\nबाजार खुलने के बाद एक्सचेंज में भेज दिया जाता है।",
+      "content_length": 205,
+      "source_type": "support_page",
+      "timestamp": 1750566785.1448052
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/order-status",
+      "title": "Guidance on Checking and Tracking Order Status on Angel One",
+      "content": "अपनी स्क्रीन के नीचे ऑर्डर पर टैप करें\nअपने सभी लंबित ऑर्डर देखने के लिए ओपन ऑर्डर पर क्लिक करें\nआप स्थिति पर क्लिक करके अपने निष्पादित ऑर्डर देख सकेंगे\nआप खुले ऑर्डर के अंतर्गत ऑर्डर इतिहास बटन पर क्लिक करके ऑर्डर की पूरी सूची भी\nदेख सकते हैं",
+      "content_length": 243,
+      "source_type": "support_page",
+      "timestamp": 1750566786.280291
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/robo-order",
+      "title": "Comprehensive Support for Robo Orders at Angel One",
+      "content": "रोबो ऑर्डर एक मल्टी-लेग ऑर्डर है जिसका उपयोग इंट्राडे ट्रेडिंग में किया जाता\nहै जो आपको शुरुआती ऑर्डर के साथ 2 और ऑर्डर देने की अनुमति देता है। एक ऑर्डर\nऑर्डर कीमत से कम कीमत पर दिया जाता है और दूसरा ऑर्डर कीमत से अधिक कीमत पर रखा\nजाता है।\nजब कोई भी निर्धारित लक्ष्य पूरा हो जाता है तो ऑर्डर स्वचालित रूप से समाप्त हो\nजाता है।\nइन ऑर्डरों को लक्ष्य तक पहुँचने से पहले या स्टॉप लॉस लक्ष्य से पहले मैन्युअल\nरूप से बाहर निकाला जा सकता है।",
+      "content_length": 434,
+      "source_type": "support_page",
+      "timestamp": 1750566787.386351
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/limit-order",
+      "title": "Comprehensive Support for Limit Orders | Angel One",
+      "content": "यह गारंटी नहीं देता कि आपका ऑर्डर निष्पादित किया जाएगा, भले ही आपकी कीमत पहुंच\nगई हो। खरीदे या बेचे जाते समय ऑर्डर कतारबद्ध होते हैं। उदाहरण के लिए। मान लें\nकि आपने एबीसी स्क्रिप्ट के लिए 100 रुपये का खरीद सीमा ऑर्डर दिया है। मान लीजिए\nकि 100 खरीदार और 50 विक्रेता एबीसी में 100 पर व्यापार करने की प्रतीक्षा कर रहे\nहैं। एबीसी वर्तमान में 105 रुपये पर कारोबार कर रहा है और कुछ मिनटों के बाद, यह\n100 रुपये तक पहुंच जाता है। चूंकि 100 रुपये के लिए केवल 50 विक्रेता हैं, इस\nकीमत तक पहुंचने पर केवल 50 खरीदार ही स्क्रिप्ट खरीद पाएंगे। जहां तक अन्य 50\nखरीदारों की बात है, उन्हें और अधिक विक्रेता उपलब्ध होने तक इंतजार करना होगा।",
+      "content_length": 622,
+      "source_type": "support_page",
+      "timestamp": 1750566788.552106
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/basket-order",
+      "title": "Efficiently Manage and Track Your Basket Orders | Angel One",
+      "content": "बास्केट ऑर्डर एक ऐसी सुविधा है जो आपको एक ही क्लिक में एक ही समय में कई ऑर्डर\nदेने की अनुमति देती है।",
+      "content_length": 101,
+      "source_type": "support_page",
+      "timestamp": 1750566796.6971872
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/types-of-orders",
+      "title": "Types of Orders at Angel One - Detailed Support and Guidance",
+      "content": "एक सीमा आदेश में खरीद मूल्य या बिक्री मूल्य निर्दिष्ट किया जाता है और व्यापार\nतभी निष्पादित किया जाता है जब कीमत पूरी हो जाती है।\nइसके विपरीत, एक मार्केट ऑर्डर मौजूदा बाजार मूल्य पर निष्पादित होता है।",
+      "content_length": 200,
+      "source_type": "support_page",
+      "timestamp": 1750566797.803154
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/square-off",
+      "title": "Detailed Support for Square Off Orders | Angel One",
+      "content": "इंट्राडे स्क्वायर-ऑफ़ के लिए समय नीचे दिया गया है:\nइक्विटी सेगमेंट: दोपहर 3:15 बजे\nवायदा विकल्प खंड: अपराह्न 3:20 बजे\nमुद्रा खंड: शाम 4:45 बजे\nकमोडिटी सेगमेंट: 11:15/11:45 अपराह्न (डेलाइट सेविंग टाइम के आधार पर)",
+      "content_length": 211,
+      "source_type": "support_page",
+      "timestamp": 1750566800.1283672
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/options",
+      "title": "Comprehensive Support for Options Contract | Angel One",
+      "content": "यदि आपका स्टॉक विकल्प अनुबंध आईटीएम (लाभ) में समाप्त हो जाता है, तो आपको अपने\nअनुबंध खरीदने होंगे। परिणामस्वरूप, यदि आप अनुबंधों को खरीदने में रुचि नहीं\nरखते हैं और केवल उनका व्यापार करने में रुचि रखते हैं, तो यह अनुशंसा की जाती है\nकि आप उन्हें समाप्त होने से पहले बेच दें।",
+      "content_length": 273,
+      "source_type": "support_page",
+      "timestamp": 1750566801.992505
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/stop-loss-order",
+      "title": "Detailed Support for Stop Loss Orders | Angel One",
+      "content": "ऐसा तब हो सकता है जब आपके पास स्टॉप-लॉस (एसएल) या एक्जिट ऑर्डर पहले से ही\nलंबित हो। पहले से ही लंबित स्टॉप-लॉस या एग्जिट ऑर्डर के साथ, आपको डुप्लिकेट\nएसएल/एग्जिट ऑर्डर देने में सक्षम होने के लिए अतिरिक्त धन की आवश्यकता होगी। यदि\nआपके खाते में यह अतिरिक्त धनराशि नहीं है, तो आपका डुप्लिकेट निकास आदेश\nअस्वीकार कर दिया जाएगा। इसीलिए हम बाहर निकलते समय आपको सूचित करते हैं कि क्या\nकिसी स्थिति के विरुद्ध कोई एसएल/निकास आदेश लंबित है, ताकि किसी भी डुप्लिकेट\nऑर्डर और अस्वीकृति से बचा जा सके।",
+      "content_length": 487,
+      "source_type": "support_page",
+      "timestamp": 1750566803.130435
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/order-rejection",
+      "title": "Order Rejection Issues: Why Order get Rejected? | Angel One",
+      "content": "अपर्याप्त मार्जिन, ऑर्डर प्रकार का गलत उपयोग, ट्रेडिंग के लिए स्टॉक उपलब्ध न\nहोना आदि सहित कई कारणों से ऑर्डर अस्वीकार किए जा सकते हैं।\nअपना ऑर्डर अस्वीकृति कारण जानने के लिए ऑर्डर टैब के अंतर्गत ऑर्डर इतिहास पर\nटैप करें",
+      "content_length": 220,
+      "source_type": "support_page",
+      "timestamp": 1750566804.264905
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/your-orders/margin-calculator",
+      "title": "Support for Margin Calculator and its Significance | Angel One",
+      "content": "मार्जिन का अर्थ है किसी विशिष्ट स्टॉक/सूचकांक को खरीदने के लिए आवश्यक राशि और\nप्रत्येक सूचकांक से दूसरे सूचकांक या एक शेयर से दूसरे शेयर में भिन्न होना।\n[Margin calculator](https://www.angelone.in/margin-calculator) यह आपको उस\nरणनीति के लिए आवश्यक मार्जिन जानने में मदद करता है जिसे आप लेना चाहते हैं।",
+      "content_length": 301,
+      "source_type": "support_page",
+      "timestamp": 1750566806.904364
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/complaince/risk-management-asm-gsm",
+      "title": "Guide on Risk Management, ASM, GSM Compliance | Angel One",
+      "content": "ASM और GSM सूचियाँ समय-समय पर बदलती रहती हैं। आप नीचे दी गई तालिका से वर्तमान\nप्रतिभूतियों की सूची देख या डाउनलोड कर सकते हैं।\nअदला-बदली | वर्ग\n---|---\nएनएसई | [एएसएम स्टॉक्स](https://www.nseindia.com/reports/asm)\nएनएसई | [जीएसएम स्टॉक](https://www.nseindia.com/reports/gsm)\nबीएसई | [एएसएम स्टॉक्स](https://www.bseindia.com/markets/equity/EQReports/additional_surveillance_measure.aspx)\nबीएसई | [जीएसएम स्टॉक](https://www.bseindia.com/markets/equity/EQReports/graded_surveil_measure.aspx)",
+      "content_length": 488,
+      "source_type": "support_page",
+      "timestamp": 1750566808.038365
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits/eligibility",
+      "title": "Eligibility - Angel One",
+      "content": "Yes, you can invest in multiple Fixed Deposits (FDs) with different providers.\nYou can also have multiple FDs with the same provider.",
+      "content_length": 133,
+      "source_type": "support_page",
+      "timestamp": 1750566815.6442811
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits/consent-security",
+      "title": "Consent & Security - Angel One",
+      "content": "To ensure a smooth and secure onboarding process, we require certain\npermissions to fetch and validate your personal details and for KYC purposes.\nThese permissions are only used for account creation and validation.",
+      "content_length": 215,
+      "source_type": "support_page",
+      "timestamp": 1750566817.658328
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits/account-verification",
+      "title": "Account Verification - Angel One",
+      "content": "Verifying your mobile number helps us create a secure account for you,\nensuring a smooth app experience and the safety of your account.",
+      "content_length": 135,
+      "source_type": "support_page",
+      "timestamp": 1750566824.062268
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits/payments-and-withdrawal",
+      "title": "Payments and Withdrawal - Angel One",
+      "content": "A payout account is where your fixed deposit investments will be credited upon\nmaturity. This is the account where you will receive your money back.",
+      "content_length": 148,
+      "source_type": "support_page",
+      "timestamp": 1750566832.018709
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits/post-purchase",
+      "title": "Post Purchase - Angel One",
+      "content": "It can take some time for the bank to verify your application. You will\nreceive an SMS notification once the FD is approved, which can take up to 24\nhours. You can also track the status on the app dashboard.",
+      "content_length": 207,
+      "source_type": "support_page",
+      "timestamp": 1750566833.116531
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/fixed-deposits/fixed-deposit-options",
+      "title": "Fixed Deposit Options - Angel One",
+      "content": "A fixed deposit (FD) is a popular and safe investment option in India. You\ninvest a lump sum of money at an agreed interest rate and receive the amount\nalong with interest upon maturity. The interest rates are fixed, higher than a\nregular savings account, and the investment is protected from market\nfluctuations.",
+      "content_length": 313,
+      "source_type": "support_page",
+      "timestamp": 1750566834.2478771
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charts/others",
+      "title": "Other Different Charts Interface Available on Angel One",
+      "content": "Android and IOS mobile app: Chart IQ and Trading View\nWeb: Trading View only",
+      "content_length": 76,
+      "source_type": "support_page",
+      "timestamp": 1750566842.1961842
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charts/chart-not-loading",
+      "title": "Chart Not Loading: Troubleshoot Chart Issues | Angel One",
+      "content": "Open Playstore\nSearch for Google Chrome on Playstore\nUpdate Google Chrome or your default browser to the latest version\nThe chart should load successfully now\nIf the chart loading fails & issue still exists :\nOpen Playstore again\nSearch for Android System Webview\nClick to Update the Android System Webview to the latest version",
+      "content_length": 328,
+      "source_type": "support_page",
+      "timestamp": 1750566843.2927759
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charts/drawing-tools",
+      "title": "How to Use Trading Drawing Tools in Charts? | Angel One",
+      "content": "All the indicators are absolutely free on the Angel One.",
+      "content_length": 56,
+      "source_type": "support_page",
+      "timestamp": 1750566850.148861
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charts/indicators",
+      "title": "Explore Buy and Sell Indicators in Charts at Angel One",
+      "content": "0.5, Colour it as Explosive Candle\\nIf the value = 0.5 , do not change the\ncandle colour\"}\" data-sheets-\nuserformat=\"{\"2\":7041,\"3\":{\"1\":0},\"10\":1,\"11\":4,\"12\":0,\"14\":{\"1\":2,\"2\":0},\"15\":\"Arial\"}\">Absolute\n(OpenPrice – ClosePrice) / Absolute (HighPrice – LowPrice) < 0.5, Colour it as\nBoring Candle\nAbsolute (OpenPrice – ClosePrice) / Absolute (HighPrice – LowPrice) > 0.5,\nColour it as Explosive Candle\nIf the value = 0.5 , do not change the candle colour",
+      "content_length": 453,
+      "source_type": "support_page",
+      "timestamp": 1750566858.8209238
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charts/trade-from-charts",
+      "title": "Guidance of How to Use Angel One Trade From Charts?",
+      "content": "Please find the details of Trade from Charts functionality in [this\narticle](https://www.angelone.in/blog/now-trade-assets-and-track-orders-\ndirectly-from-charts-on-the-angel-one-web-app).",
+      "content_length": 188,
+      "source_type": "support_page",
+      "timestamp": 1750566867.260918
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements/profit-loss",
+      "title": "Profit & Loss Statement: Tracking Investment Performance at Angel One",
+      "content": "आप इन चरणों का पालन करके पिछले दो वर्षों के P&L विवरण डाउनलोड कर सकते हैं।\n1. अपने एंजेल वन खाते में लॉगिन करें।\n2. एप्लिकेशन में अकाउंट सेक्शन में जाएं।\n3. आपको इस स्क्रीन पर लाभ और हानि अनुभाग मिलेगा। इस पर क्लिक करें।\n4. आप चयनित तिथि सीमा के लिए लाभ और हानि देख सकते हैं।\n5. डाउनलोड बटन पर क्लिक करें.\n6. यदि आप आईटीआर दाखिल कर रहे हैं तो विस्तृत कर पी एंड एल विवरण चुनें।\n7. दिनांक सीमा चुनें और डाउनलोड पर क्लिक करें।\nकृपया ध्यान दें कि आपको टैक्स P&L में अल्पकालिक और दीर्घकालिक पूंजीगत लाभ भी\nमिलेगा।",
+      "content_length": 508,
+      "source_type": "support_page",
+      "timestamp": 1750566868.364862
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements/trade-history-sauda-summary",
+      "title": "Explore the Trade History (Sauda Summary) with Angel One",
+      "content": "व्यापार इतिहास रिपोर्ट में आपके सभी लेनदेन और संबंधित शुल्कों के साथ-साथ\nदिनांक, प्रकार और ऑर्डर के खंड जैसी अन्य जानकारी शामिल होती है।",
+      "content_length": 136,
+      "source_type": "support_page",
+      "timestamp": 1750566875.13456
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements/ledger",
+      "title": "Ledger: How to Track Financial Transaction at Angel One?",
+      "content": "लेजर आपके खाते के लेनदेन का एक रिकॉर्ड है, जिसे दैनिक रूप से अपडेट किया जाता\nइसमें फंड भुगतान और फंड निकासी, खरीदारी के लिए किए गए भुगतान, बिक्री लेनदेन के\nलिए प्राप्त भुगतान और किए गए शुल्क का विवरण शामिल है।\nयह आपके खाते में नकदी सीमा का चालू संतुलन भी बताता है।\nबहीखाता पढ़ने के तरीके के विवरण के लिए \"[Click\nHere](https://www.angelone.in/knowledge-center/share-market/ledger-narration)“",
+      "content_length": 390,
+      "source_type": "support_page",
+      "timestamp": 1750566876.262135
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements/contract-note",
+      "title": "Contract Note: How to Download the Contract Note in Angel One?",
+      "content": "एक अनुबंध नोट किसी विशेष दिन पर किए गए व्यापार की पुष्टि है।\nअधिक जानने के लिए \"[Click Here](https://www.angelbroking.com/knowledge-\ncenter/online-share-trading/what-is-a-contract-note-and-how-to-read-it )“",
+      "content_length": 206,
+      "source_type": "support_page",
+      "timestamp": 1750566877.38785
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/reports-and-statements/holding-statement",
+      "title": "How to Access & How to Track Holding Statements at Angel One?",
+      "content": "होल्डिंग स्टेटमेंट किसी भी समय आपके पोर्टफोलियो/होल्डिंग्स के सभी विवरण प्रदान\nकरता है। आपको होल्डिंग स्टेटमेंट में स्टॉक के नाम, औसत मूल्य, मात्रा और अन्य\nविवरण मिलेंगे।",
+      "content_length": 170,
+      "source_type": "support_page",
+      "timestamp": 1750566884.0271769
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/loans/loans-enquiry",
+      "title": "Loans Enquiry - Angel One",
+      "content": "Currently, Angel One is offering personal loans via its lending partners to a\nselect group of existing users only. We will gradually be rolling out the\nproduct to more users. Stay tuned for updates!",
+      "content_length": 198,
+      "source_type": "support_page",
+      "timestamp": 1750566890.900112
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/loans/active-loans",
+      "title": "Active Loans - Angel One",
+      "content": "The repayment schedule is not available on the app. You can request your\nrepayment schedule by:\n* Emailing at: **support@creditsaison-in.com**\n* Calling: **18001038961**",
+      "content_length": 169,
+      "source_type": "support_page",
+      "timestamp": 1750566897.284308
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/loans/rejected-loans",
+      "title": "Rejected Loans - Angel One",
+      "content": "Your loan application is evaluated based on multiple factors. While your\nsalary is one aspect, other considerations include your credit score, existing\ndebt, and our lender partners’ policies.",
+      "content_length": 192,
+      "source_type": "support_page",
+      "timestamp": 1750566904.15536
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/dp-depository-participant-charges",
+      "title": "Explore the DP (Depository Participant) Charges in Angel One",
+      "content": "डीपी (डिपॉजिटरी पार्टिसिपेंट) शुल्क आपके डीमैट खाते से शेयर बेचते समय लागू\nकिया जाता है।\nडीपी शुल्क are levied on a per-scrip, per-transaction basis. They don’t depend\non the quantity of shares you sold, but on the number of different\nscrips/shares/securities that you sell.\nडीपी शुल्क are levied at Rs 20 (+ 18% GST) per scrip per transaction.",
+      "content_length": 344,
+      "source_type": "support_page",
+      "timestamp": 1750566906.779094
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/account-maintenance-charges",
+      "title": "Guidance on Angel One AMC Charges (Account Maintenance Charges)",
+      "content": "Account Maintenance Charge (AMC) is a fixed quarterly charge that is billed to\nyour account.\nपहले वर्ष के लिए खाता रखरखाव शुल्क 0 है। हालाँकि, दूसरे वर्ष के बाद के\nग्राहकों के लिए निम्नलिखित शुल्क हैं।\n1. Non-बीएसडीए (बेसिक सर्विसेज डीमैट अकाउंट) Clients – Rs. 60+ GST billed every quarter (Charged after your first trade each quarter).\n2. For BSDA Clients –\nIf the holding value is less than 4 lakh, AMC is 0.\nIf the holding value is between 4 lakh and 10 lakh, AMC is Rs. 100+GST billed\nevery year.\nYou can check the AMC levied to your account by navigating to **Account →\nTrades and Charges → Other Charges** screen on the app.",
+      "content_length": 630,
+      "source_type": "support_page",
+      "timestamp": 1750566907.900894
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/call-and-trade-charges",
+      "title": "Checkout the Charges for Call and Trade in Angel One",
+      "content": "यदि लेनदेन फ़ोन कॉल पर किया जाता है तो कॉल और व्यापार शुल्क लागू होते हैं।\nकॉल और ट्रेड के लिए शुल्क प्रति निष्पादित ऑर्डर 20 रुपये+जीएसटी है।\nइन्हें किसी व्यापार के निष्पादन के बाद ही लगाया जाता है।",
+      "content_length": 199,
+      "source_type": "support_page",
+      "timestamp": 1750566914.749553
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/stt-securities-transaction-tax",
+      "title": "Securities Transaction Tax (STT) Charges on Trading | Angel One",
+      "content": "Securities Transaction Tax is a direct tax charged on the purchase and sale of\nsecurities that are listed on stock exchanges.\n**Buy and Sale of equity delivery shares:** 0.1% per executed order\n**Sale of equity intraday shares:** 0.025% per executed order\n**Sale of futures in securities:** STT shall be revised to 0.02% from 0.0125%\n**Sale of options in securities:** STT shall be revised to 0.1% of premium\nfrom 0.0625%",
+      "content_length": 421,
+      "source_type": "support_page",
+      "timestamp": 1750566915.906532
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/sebi-charges",
+      "title": "SEBI Charges for sale and purchase of securities at Angel One",
+      "content": "सेबी शुल्क सभी प्रकार की प्रतिभूतियों में बिक्री और खरीद लेनदेन के लिए सेबी\nद्वारा लगाया जाने वाला शुल्क है।",
+      "content_length": 108,
+      "source_type": "support_page",
+      "timestamp": 1750566922.72705
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/penal-delayed-payment-charges",
+      "title": "Explore the Penal Delayed Payment Charges at Angel One",
+      "content": "विलंबित भुगतान शुल्क (डीपीसी) ग्राहकों से लगाए जाने वाले शुल्क हैं; ट्रेडिंग\nदिवस +2 से समग्र बही डेबिट पर।",
+      "content_length": 107,
+      "source_type": "support_page",
+      "timestamp": 1750566930.511863
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/stamp-duty",
+      "title": "Get to Know Stamp Duty Charges for Trading in Stocks at Angel One",
+      "content": "स्टाम्प ड्यूटी स्टॉक, मुद्रा डेरिवेटिव और वस्तुओं में व्यापार पर लगाया जाने\nवाला प्रत्यक्ष कर है, जो भारतीय स्टाम्प अधिनियम, 1899 की धारा 3 के तहत देय है।",
+      "content_length": 154,
+      "source_type": "support_page",
+      "timestamp": 1750566937.3011699
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/transaction-turnover-charges",
+      "title": "Know the Transaction Turnover Charges for Trading at Angel One",
+      "content": "Transaction/Turnover charges are charges that are levied by the Exchange on\nthe turnover from every trader to provide them with the technology platform to\nbuy & sell securities. [Click यहाँ](https://www.angelone.in/exchange-\ntransaction-charges) to check the details on transaction charges.",
+      "content_length": 290,
+      "source_type": "support_page",
+      "timestamp": 1750566938.431329
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/brokerage-plan",
+      "title": "Instructions to Check Your Angel One Brokerage Plans?",
+      "content": "You can check your brokerage plan in the Angel app. Navigate to the **Account\n→ Profile → Brokerage & Charges** screen on the app. You will be able to see\nyour brokerage plan and corresponding charges यहाँ.",
+      "content_length": 206,
+      "source_type": "support_page",
+      "timestamp": 1750566939.536381
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/auto-square-off-charges",
+      "title": "Guide on Auto Square-Off Charges for Angel One Trading Account",
+      "content": "ऑटो स्क्वायर ऑफ के लिए शुल्क प्रति निष्पादित ऑर्डर 20 रुपये है।",
+      "content_length": 63,
+      "source_type": "support_page",
+      "timestamp": 1750566946.342756
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/brokerage-charges",
+      "title": "Guide to Brokerage Charges for Different Securities at Angel One",
+      "content": "आप ऐप के 'खाता अनुभाग' पर 'व्यापार और शुल्क' पर क्लिक करके शुल्क की जांच कर\nसकते हैं। यहां, आप व्यापार और गैर-व्यापार शुल्क (एंजेल वन द्वारा शुल्क और\nबाहरी शुल्क सहित) देख सकते हैं। [Click यहाँ](https://www.angelone.in/exchange-\ntransaction-charges) सभी लागू शुल्कों के बारे में अधिक जानने के लिए।",
+      "content_length": 297,
+      "source_type": "support_page",
+      "timestamp": 1750566948.4441001
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/pledging-charges",
+      "title": "Angel One Pledging Charges: Pledging of shares",
+      "content": "Pledging of shares is charged a flat transaction fee, irrespective of the\nquantity pledged. A fixed transaction fee of ₹20 + GST is charged for each\npledge and unpledge request, regardless of the number of shares. The split is\nas follows.\nINR 5 (Depository) + INR 15 (Angel One Charge) + GST",
+      "content_length": 291,
+      "source_type": "support_page",
+      "timestamp": 1750566950.775069
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/stock-pledging-charges",
+      "title": "Guide on Charges for Stock Pledging and Unpledging at Angel One",
+      "content": "A fixed transaction fee of ₹20 + GST is charged for each pledge and unpledge\nrequest, regardless of the number of shares. The split is as follows.\nINR 5 (Depository) + INR 15 (Angel One Charge) + GST\nउदाहरण के लिए,\nSuppose you want to pledge 100 shares of ABC Ltd. and 50 shares of XYZ Ltd.\nYou will be charged ₹40 + GST for 2 requests, irrespective of the number of\nshares in each request.\nSimilarly, if you want to place one unpledge request for 100 shares of ABC\nLtd. and two unpledge requests for 50 shares and 20 shares of XYZ Ltd,\nrespectively. In this case, you will be charged (₹20 x 3) = ₹60 + GST for 3\nrequests, irrespective of the number of shares in each request.",
+      "content_length": 676,
+      "source_type": "support_page",
+      "timestamp": 1750566952.9786031
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/brokerage-cashback",
+      "title": "Explore Angel One Brokerage Cashback Offers and Charges",
+      "content": "कुछ नए ग्राहकों को केवल पहले महीने के लिए ब्रोकरेज छूट की पेशकश की जाती है।\nनीचे नियम एवं शर्तें हैं:\n* यह नए ग्राहकों के लिए एक बार का और विशेष ऑफर है और यह सभी उपयोगकर्ताओं पर लागू नहीं हो सकता है।\n* मुफ़्त ब्रोकरेज की वैधता खाता खोलने की तारीख से सभी ट्रेडों पर 30 दिनों की है, जिसकी ऊपरी सीमा है ₹500.\n* ब्रोकरेज का शुल्क नहीं लिया जाएगा; यदि यह किसी निश्चित व्यापार पर लागू होता है तो बस इसमें छूट दी जाएगी।\nकृपया ध्यान दें: एंजेल वन अपने पूर्ण विवेक से, ऑफ़र को बदलने, बदलने या बंद\nकरने का अधिकार सुरक्षित रखता है और ईमेल के माध्यम से ग्राहक को इसकी सूचना\nदेगा।",
+      "content_length": 567,
+      "source_type": "support_page",
+      "timestamp": 1750566954.0994549
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/off-mkt-transaction-charges",
+      "title": "Off-Market Transaction Charges and Duration at Angel One",
+      "content": "जब आप शेयरों को एक डीमैट खाते से दूसरे में स्थानांतरित करते हैं तो ऑफ-एमकेटी\nलेनदेन शुल्क लागू होते हैं",
+      "content_length": 103,
+      "source_type": "support_page",
+      "timestamp": 1750566961.074614
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/charges-and-cashbacks/gst-goods-services-tax",
+      "title": "Angel One GST (Goods and Services Tax) Charges on Trading",
+      "content": "स्टॉक ब्रोकर ब्रोकिंग सेवा प्रदान करते हैं, और इसलिए वस्तु एवं सेवा कर का\nभुगतान करने के लिए उत्तरदायी हैं, जो जीएसटी चालान में शामिल है।",
+      "content_length": 137,
+      "source_type": "support_page",
+      "timestamp": 1750566967.947701
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/rights-issue",
+      "title": "Right Issue: Guidance on Applying for Right Issue | Angel One",
+      "content": "Investors can apply for Right Issue shares only through the Application\nSupported by Blocked Amount i.e. ASBA, either online or offline, if they hold\n[Right Entitlement](https://www.angelone.in/knowledge-center/share-\nmarket/what-is-rights-entitlement-know-in-detail) in their demat account.\n**Online ASBA Process:** Most Self-Certified Syndicate Banks (SCSBs) support\nthe online ASBA application process through Net Banking, similar to an IPO\napplication. Investors should refer to their respective SCSB’s website for\ndetailed instructions on applying for the ठीक समस्या.\n**Offline ASBA Process:** Alternatively, investors can apply by submitting a\nfilled application form at the nearest branch of an SCSB (Self Certified\nSyndicate Bank). The list of eligible branches is available on the [ SEBI\nwebsite](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34).\n**The Composite Application form** (CAF) can be downloaded from **NSE, BSE**\nand **RTA** websites.\nInvestors can also view and download the ठीक समस्या Application Form **(CAF)**\n, Offer Letter, **Abridged Letter & Entitlement Ratio **– Applicable only for\nregistered holders with holdings as of Record Date, from the RTA website. RTA\ndon’t directly accept Right Issue application forms (online/offline).\nApplication needs to be channeled through SCSBs only.",
+      "content_length": 1348,
+      "source_type": "support_page",
+      "timestamp": 1750566969.048546
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/tpin",
+      "title": "Transaction Personal Identification Number: How to Generate TPIN? | Angel One",
+      "content": "टीपिन का मतलब ट्रांजेक्शन पर्सनल आइडेंटिफिकेशन नंबर है।\nसीडीएसएल ने टीपिन पेश किया है, जो निवेशकों को अपने डीमैट खातों से प्रतिभूतियों\nको वस्तुतः बेचने के लिए अधिकृत करने में सक्षम बनाएगा।\nगैर पीओए ग्राहकों के लिए, टीपिन सत्यापन 1 दिन के लिए वैध होगा।\nएक बार जब आप टीपिन जनरेट कर लेते हैं, तो यह तब तक वैध रहेगा जब तक आप इसे\nदोबारा जनरेट नहीं करते। इसलिए, त्वरित सत्यापन के लिए कृपया अपने टीपिन को नोट\nकर लें।\nडीमैट अकाउंट से शेयर बेचने के लिए टीपिन के अलावा एक ओटीपी की भी जरूरत होगी।",
+      "content_length": 485,
+      "source_type": "support_page",
+      "timestamp": 1750566970.177106
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/dividend",
+      "title": "Dividend: How to Manage Dividends in Angel One Portfolio?",
+      "content": "लाभांश वह राशि है जो किसी कंपनी द्वारा अपने शेयरधारकों को अपने मुनाफे से दी\nजाती है। लाभांश भुगतान के बारे में अधिक जानने के लिए [click\nhere](https://www.angelone.in/knowledge-center/share-market/when-are-stock-\ndividends-paid-out).",
+      "content_length": 232,
+      "source_type": "support_page",
+      "timestamp": 1750566971.301963
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/holdings-portfolio",
+      "title": "Guid on Managing Your Holdings and Portfolio with Angel One",
+      "content": "शेयर 2 कारणों से पूल खाते में होंगे:\nआपका खाता डेबिट में है\nअभी शेयरों का निपटान नहीं हुआ है. शेयरों का निपटान ट्रेडिंग दिवस + 2 दिन पर\nकिया जाता है।",
+      "content_length": 149,
+      "source_type": "support_page",
+      "timestamp": 1750566978.085144
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/buyback",
+      "title": "How to Participate in Buybacks through Angel One?",
+      "content": "यह एक कॉर्पोरेट कार्रवाई है जिसके माध्यम से एक कंपनी अपने स्वयं के शेयर धारकों\nसे आम तौर पर बाजार मूल्य से अधिक कीमत पर वापस खरीदती है। [Click\nhere](https://www.angelone.in/knowledge-center/share-market/effect-of-buyback-\non-share-price) शेयरों की बायबैक के बारे में अधिक जानने के लिए।",
+      "content_length": 285,
+      "source_type": "support_page",
+      "timestamp": 1750566979.224691
+    },
+    {
+      "url": "https://www.angelone.in/support/hindi/portfolio-and-corporate-actions/stock-split",
+      "title": "Stock Split: How to Manage Stock Splits? | Angel One",
+      "content": "आपको रिकॉर्ड तिथि के बाद 3-4 ट्रेडिंग दिनों में स्टॉक स्प्लिट शेयर प्राप्त\nहोंगे।\nयदि आपको रिकॉर्ड तिथि से 5 दिन बाद वही पोस्ट प्राप्त नहीं होती है तो आप\nरजिस्ट्रार (आरटीए) से स्थिति की जांच कर सकते हैं।\nआप बीएसई इंडिया की वेबसाइट पर कॉर्प सूचना अनुभाग पर जाकर रजिस्ट्रार का विवरण\nपा सकते हैं।",
+      "content_length": 293,
+      "source_type": "support_page",
+      "timestamp": 1750566980.344099
+    }
+  ],
+  "failed_urls": []
+}
