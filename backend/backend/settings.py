@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-2xqq*8s-*op_=sph!s)e*ij=1xu4h&q1)2m2+76=$7wy*jp0)o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'backend', '*', '.railway.app']
 
 
 # Application definition
@@ -68,7 +68,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:80",
     "http://127.0.0.1:3000",
     "http://127.0.0.1:80",
- 
+    "https://*.railway.app", 
     
 ]
 
